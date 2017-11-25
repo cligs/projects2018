@@ -1,0 +1,103 @@
+Using 80 most distintice words according to measure sd0 to classify novelas
+['además', 'aires', 'algo', 'aquel', 'arma', 'así', 'aunque', 'bien', 'bueno', 'buenos', 'caballo', 'casa', 'cierto', 'coger', 'combate', 'comenzar', 'concluir', 'coronel', 'cosa', 'cual', 'cuanto', 'dios', 'don', 'día', 'ejército', 'empezar', 'encontrar', 'enemigo', 'entender', 'entonces', 'ese', 'esperar', 'este', 'frente', 'general', 'gobierno', 'hablar', 'jefe', 'juan', 'la', 'le', 'lleno', 'madrid', 'mandar', 'manera', 'marcha', 'menos', 'mientras', 'momento', 'morir', 'mozo', 'muerto', 'mujer', 'muy', 'necesario', 'ni', 'oficial', 'otro', 'paisano', 'parecer', 'pero', 'pocos', 'profundo', 'propio', 'qué', 'sangre', 'seguir', 'señor', 'señora', 'si', 'silencio', 'soldado', 'subir', 'suceder', 'tal', 'tan', 'tomar', 'tropa', 'tío', 'uno']
+[ 0.875   0.8125  0.875 ];
+Mean: 0.854166666667
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure sd2 to classify novelas
+['afición', 'agregar', 'aires', 'alcoba', 'ama', 'bodega', 'bonifacio', 'buenos', 'butaca', 'campamento', 'campaña', 'capellán', 'carretera', 'casino', 'caudillo', 'chihuahua', 'clérigo', 'coger', 'combate', 'compadre', 'conversar', 'coronel', 'cortijo', 'dama', 'discurrir', 'ejército', 'entendimiento', 'enterar', 'entretanto', 'federal', 'fermín', 'galán', 'genaro', 'gobernador', 'gómez', 'honrado', 'huerta', 'huerto', 'indio', 'jefe', 'joaquín', 'juana', 'lucir', 'madrid', 'marqués', 'mauricio', 'menudo', 'méndez', 'méxico', 'nacional', 'oficial', 'paco', 'paisano', 'pelear', 'peseta', 'policía', 'portal', 'prisionero', 'procurar', 'quiroga', 'rafael', 'ranchar', 'reparar', 'retaguardia', 'sangriento', 'sebastián', 'sepulcro', 'señorito', 'silvio', 'soldado', 'teniente', 'tertulia', 'tropa', 'tucumán', 'tío', 'unitario', 'valencia', 'valenzuela', 'viña', 'vázquez']
+[ 0.9375  1.      0.875 ];
+Mean: 0.9375
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure sdX to classify novelas
+['abad', 'abadía', 'abajo', 'abalanzar', 'abanderar', 'abandonar', 'abandono', 'abanicar', 'abanico', 'abar', 'abarcar', 'abarrotar', 'abarrote', 'abastecer', 'abastecimiento', 'abasto', 'abate', 'abatimiento', 'abatir', 'abdicar', 'abdomen', 'abdul', 'abecedario', 'abedul', 'abeja', 'abejorro', 'abelardo', 'aberración', 'abertura', 'abierto', 'abismo', 'ablandar', 'abnegación', 'abnegado', 'abnegar', 'abocar', 'abogadillo', 'abogado', 'abogar', 'abolición', 'ávidamente', 'ávido', 'écija', 'él', 'émulo', 'énfasis', 'épico', 'época', 'éter', 'ética', 'ético', 'étnico', 'éxito', 'éxodo', 'éxtasis', 'ídem', 'ídolo', 'ímpetu', 'índice', 'índico', 'índole', 'íntegro', 'íntimo', 'ítem', 'ñato', 'óleo', 'ómnibus', 'ópera', 'óptica', 'óptico', 'órbita', 'órgano', 'óseo', 'óxido', 'újule', 'úlcera', 'último', 'únicamente', 'único', 'útil']
+[ 0.375   0.4375  0.4375];
+Mean: 0.416666666667
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure sr0 to classify novelas
+['algo', 'amigo', 'arma', 'así', 'bien', 'bueno', 'caballo', 'con', 'coronel', 'cosa', 'cual', 'cuando', 'dar', 'de', 'don', 'día', 'ejército', 'empezar', 'en', 'enemigo', 'entonces', 'ese', 'esperar', 'este', 'genaro', 'general', 'gobierno', 'haber', 'hablar', 'hacer', 'hombre', 'ir', 'jefe', 'juan', 'juana', 'la', 'le', 'manera', 'mi', 'mientras', 'momento', 'muerto', 'mujer', 'muy', 'más', 'mío', 'ni', 'no', 'noche', 'nosotros', 'oficial', 'otro', 'paisano', 'parecer', 'pero', 'poder', 'por', 'porque', 'que', 'quiroga', 'qué', 'se', 'seguir', 'ser', 'señor', 'señora', 'si', 'sobre', 'soldado', 'tan', 'todo', 'tomar', 'tío', 'tú', 'un', 'unknown', 'usted', 'ver', 'yo', 'él']
+[ 0.4375  0.25    0.8125];
+Mean: 0.5
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure sr2 to classify novelas
+['abad', 'adolfo', 'aires', 'alicia', 'angélica', 'bonifacio', 'buenos', 'campamento', 'capellán', 'carola', 'casino', 'celso', 'chihuahua', 'chile', 'coca', 'coronel', 'cortijo', 'discurrir', 'elena', 'eros', 'estanco', 'eulalia', 'febrero', 'federal', 'fermín', 'galán', 'genaro', 'giménez', 'gringo', 'gómez', 'horacio', 'huerto', 'inca', 'joaquín', 'juana', 'laura', 'lisboa', 'manuela', 'marañón', 'mariano', 'marqués', 'mauricio', 'maury', 'medrano', 'mexicano', 'mochi', 'méndez', 'méxico', 'nelly', 'nina', 'olimpia', 'paco', 'paisano', 'pampa', 'paula', 'peseta', 'portugal', 'portugués', 'prisionero', 'quiroga', 'rafael', 'retaguardia', 'rita', 'rodríguez', 'santander', 'sarmiento', 'sebastián', 'serafín', 'señorito', 'silvio', 'solís', 'tucumán', 'unitario', 'valencia', 'valenzuela', 'vanguardia', 'vega', 'viña', 'vázquez', 'víctor']
+[ 0.9375  0.875   1.    ];
+Mean: 0.9375
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure srX to classify novelas
+['abad', 'abadía', 'abajo', 'abalanzar', 'abanderar', 'abandonar', 'abandono', 'abanicar', 'abanico', 'abar', 'abarcar', 'abarrotar', 'abarrote', 'abastecer', 'abastecimiento', 'abasto', 'abate', 'abatimiento', 'abatir', 'abdicar', 'abdomen', 'abdul', 'abecedario', 'abedul', 'abeja', 'abejorro', 'abelardo', 'aberración', 'abertura', 'abierto', 'abismo', 'ablandar', 'abnegación', 'abnegado', 'abnegar', 'abocar', 'abogadillo', 'abogado', 'abogar', 'abolición', 'ávidamente', 'ávido', 'écija', 'él', 'émulo', 'énfasis', 'épico', 'época', 'éter', 'ética', 'ético', 'étnico', 'éxito', 'éxodo', 'éxtasis', 'ídem', 'ídolo', 'ímpetu', 'índice', 'índico', 'índole', 'íntegro', 'íntimo', 'ítem', 'ñato', 'óleo', 'ómnibus', 'ópera', 'óptica', 'óptico', 'órbita', 'órgano', 'óseo', 'óxido', 'újule', 'úlcera', 'último', 'únicamente', 'único', 'útil']
+[ 0.4375  0.4375  0.5   ];
+Mean: 0.458333333333
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure dd0 to classify novelas
+['abad', 'acequia', 'agravio', 'barítono', 'bonifacio', 'carola', 'catalogar', 'celso', 'celular', 'centavo', 'centímetro', 'cerillo', 'certificado', 'cesación', 'cette', 'chabacano', 'chacarita', 'chaco', 'cádiz', 'desconcertante', 'discurrir', 'enfrentar', 'englobar', 'enjuiciar', 'enorgullecer', 'enredarse', 'enriquecido', 'enrolarse', 'ensenar', 'enseñarse', 'establo', 'estanco', 'febrero', 'gorro', 'huerto', 'isabelita', 'joaquín', 'lisboa', 'luigi', 'lumen', 'lupanar', 'mencionado', 'miss', 'mochi', 'nacionalista', 'nina', 'olimpia', 'orozco', 'orquídea', 'ortega', 'paco', 'pelayo', 'piloto', 'porfirio', 'portugal', 'presumible', 'párroco', 'rita', 'réclame', 'saavedra', 'sabino', 'sacarse', 'santander', 'sebastián', 'serafín', 'señorito', 'solís', 'toar', 'tolerarse', 'tomador', 'tonicidad', 'tontera', 'toparse', 'tornarse', 'valencia', 'valenciano', 'valenzuela', 'vega', 'viña', 'zapatilla']
+[ 0.9375  0.8125  0.9375];
+Mean: 0.895833333333
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure dd2 to classify novelas
+['además', 'afición', 'agregar', 'aires', 'algo', 'aquel', 'arma', 'bien', 'buenos', 'campamento', 'campaña', 'capellán', 'caudillo', 'coger', 'combate', 'con', 'concluir', 'coronel', 'cual', 'dama', 'del', 'don', 'ejército', 'enterar', 'entonces', 'entretanto', 'ese', 'este', 'federal', 'fermín', 'galán', 'genaro', 'general', 'gobernador', 'gobierno', 'hacer', 'honrado', 'huerta', 'indio', 'jefe', 'juana', 'le', 'madrid', 'marcha', 'marqués', 'menudo', 'momento', 'muy', 'más', 'méndez', 'nacional', 'no', 'oficial', 'otro', 'paco', 'paisano', 'parecer', 'pelear', 'pero', 'peseta', 'policía', 'por', 'prisionero', 'procurar', 'quiroga', 'rafael', 'ser', 'señora', 'señorito', 'si', 'soldado', 'suyo', 'tan', 'teniente', 'tropa', 'tío', 'unitario', 'violento', 'vázquez', 'él']
+[ 0.375  0.5    0.5  ];
+Mean: 0.458333333333
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure ddX to classify novelas
+['abad', 'abadía', 'abajo', 'abalanzar', 'abanderar', 'abandonar', 'abandono', 'abanicar', 'abanico', 'abar', 'abarcar', 'abarrotar', 'abarrote', 'abastecer', 'abastecimiento', 'abasto', 'abate', 'abatimiento', 'abatir', 'abdicar', 'abdomen', 'abdul', 'abecedario', 'abedul', 'abeja', 'abejorro', 'abelardo', 'aberración', 'abertura', 'abierto', 'abismo', 'ablandar', 'abnegación', 'abnegado', 'abnegar', 'abocar', 'abogadillo', 'abogado', 'abogar', 'abolición', 'ávidamente', 'ávido', 'écija', 'él', 'émulo', 'énfasis', 'épico', 'época', 'éter', 'ética', 'ético', 'étnico', 'éxito', 'éxodo', 'éxtasis', 'ídem', 'ídolo', 'ímpetu', 'índice', 'índico', 'índole', 'íntegro', 'íntimo', 'ítem', 'ñato', 'óleo', 'ómnibus', 'ópera', 'óptica', 'óptico', 'órbita', 'órgano', 'óseo', 'óxido', 'újule', 'úlcera', 'último', 'únicamente', 'único', 'útil']
+[ 0.4375  0.4375  0.375 ];
+Mean: 0.416666666667
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure dr0 to classify novelas
+['abad', 'acequia', 'barítono', 'bonifacio', 'brocha', 'burócrata', 'buscador', 'buzón', 'carola', 'celso', 'deshielo', 'desidia', 'desistimiento', 'deslinde', 'desmoralización', 'desmoralizar', 'desmudar', 'desorganización', 'desorganizar', 'desparecer', 'despliegue', 'discurrir', 'elena', 'estanco', 'febrero', 'grácil', 'huerto', 'intercalarse', 'intercambio', 'intercostal', 'interpelación', 'interposición', 'intersección', 'interventor', 'intestinal', 'intimación', 'isabelita', 'joaquín', 'lisboa', 'lucia', 'maury', 'mencionado', 'metodista', 'metropolitano', 'mexicano', 'mililitro', 'miss', 'mochi', 'nina', 'olimpia', 'paco', 'pascual', 'paula', 'pelayo', 'peruano', 'perú', 'piloto', 'portugal', 'presidencial', 'párroco', 'rita', 'santander', 'sebastián', 'semblanza', 'semen', 'semi', 'semicircular', 'sensacional', 'serafín', 'señorito', 'solís', 'toar', 'tomás', 'tramar', 'tramitación', 'transfusión', 'valencia', 'valenzuela', 'vega', 'viña']
+[ 0.8125  1.      0.8125];
+Mean: 0.875
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure dr2 to classify novelas
+['acción', 'aceptar', 'actitud', 'agregar', 'ah', 'aires', 'alcanzar', 'antiguo', 'armar', 'avanzar', 'azul', 'brusco', 'buenos', 'cambiar', 'campamento', 'campaña', 'carlos', 'caudillo', 'convencer', 'copa', 'cumplir', 'demasiado', 'deseo', 'desgracia', 'diablo', 'dirección', 'durante', 'elemento', 'entender', 'entretanto', 'estado', 'exclamar', 'federal', 'genaro', 'herida', 'honor', 'importar', 'infinito', 'inmediato', 'interrumpir', 'juez', 'julio', 'lento', 'llenar', 'marido', 'mostrar', 'méndez', 'nacional', 'oscuro', 'partido', 'patio', 'pedazo', 'pelear', 'pensamiento', 'plata', 'policía', 'político', 'prisionero', 'puesto', 'reunir', 'revolución', 'reír', 'salvaje', 'santa', 'secreto', 'sentimiento', 'silencioso', 'silvio', 'subir', 'teniente', 'través', 'triunfo', 'tucumán', 'unitario', 'varios', 'vestir', 'viaje', 'victoria', 'violento', 'vázquez']
+[ 0.9375  1.      1.    ];
+Mean: 0.979166666667
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure drX to classify novelas
+['abad', 'abadía', 'abajo', 'abalanzar', 'abanderar', 'abandonar', 'abandono', 'abanicar', 'abanico', 'abar', 'abarcar', 'abarrotar', 'abarrote', 'abastecer', 'abastecimiento', 'abasto', 'abate', 'abatimiento', 'abatir', 'abdicar', 'abdomen', 'abdul', 'abecedario', 'abedul', 'abeja', 'abejorro', 'abelardo', 'aberración', 'abertura', 'abierto', 'abismo', 'ablandar', 'abnegación', 'abnegado', 'abnegar', 'abocar', 'abogadillo', 'abogado', 'abogar', 'abolición', 'ávidamente', 'ávido', 'écija', 'él', 'émulo', 'énfasis', 'épico', 'época', 'éter', 'ética', 'ético', 'étnico', 'éxito', 'éxodo', 'éxtasis', 'ídem', 'ídolo', 'ímpetu', 'índice', 'índico', 'índole', 'íntegro', 'íntimo', 'ítem', 'ñato', 'óleo', 'ómnibus', 'ópera', 'óptica', 'óptico', 'órbita', 'órgano', 'óseo', 'óxido', 'újule', 'úlcera', 'último', 'únicamente', 'único', 'útil']
+[ 0.4375  0.3125  0.375 ];
+Mean: 0.375
+--------------------
+--------------------
+--------------------
+
+Using 80 most frequent words to classify novelas
+['ahora', 'alguno', 'allí', 'amigo', 'aquel', 'aquí', 'así', 'aunque', 'bien', 'bueno', 'cabeza', 'casa', 'cosa', 'creer', 'dar', 'deber', 'decir', 'dejar', 'después', 'dios', 'don', 'dos', 'día', 'entonces', 'entrar', 'fin', 'grande', 'haber', 'hablar', 'hacer', 'hijo', 'hombre', 'hora', 'ir', 'llamar', 'llegar', 'llevar', 'mano', 'medio', 'menos', 'mirar', 'mismo', 'mujer', 'noche', 'ojo', 'padre', 'parecer', 'parte', 'pasar', 'pensar', 'pocos', 'poder', 'poner', 'primero', 'pues', 'quedar', 'querer', 'saber', 'salir', 'seguir', 'sentir', 'ser', 'señor', 'señora', 'si', 'siempre', 'solo', 'sólo', 'tal', 'tan', 'tener', 'tiempo', 'tomar', 'unknown', 'usted', 'venir', 'ver', 'vez', 'vida', 'volver']
+[ 0.3125  0.625   0.25  ]; Mean: 0.395833333333
+--------------------
+--------------------
+--------------------
+
