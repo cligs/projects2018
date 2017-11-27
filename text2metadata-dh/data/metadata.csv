@@ -1,0 +1,193 @@
+,idno,author-country,availability,narrative-perspective,narrator,protagonist-gender,setting-type,protagonist-age,protagonist-social-level,representation,setting-continent,setting-continent_binary,setting-country,setting-country_binary,setting-name,setting-territory,time-period,protagonist-profession,type-end_comp,type-end,keywords-cert,setting-type
+ne0001,ne0001,Spain,restricted,homodiegetic,third-person,male,rural,mature,high,realistic,Europe,Europe,Spain,Spain,Labraz,País Vasco,contemporary,lord,positive,positive,high,land
+ne0002,ne0002,Spain,free,heterodiegetic,third-person,female,big-city,adult,low,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,beggar,negative,negative,medium,land
+ne0003,ne0003,Spain,free,homodiegetic,third-person,male,mixed,adult,low,realistic,Europe,Europe,Spain,Spain,mixed,Castilla,contemporary,religious,positive,positive,high,land
+ne0004,ne0004,Spain,free,homodiegetic,third-person,mixed,big-city,adult,high,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,lord,positive,positive,medium,land
+ne0005,ne0005,Spain,free,heterodiegetic,third-person,female,big-city,young,low,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,housewife,partial positive,positive,medium,land
+ne0006,ne0006,Spain,free,heterodiegetic,third-person,male,small-city,young,medium,realistic,Europe,Europe,Spain,Spain,Toledo,Castilla,contemporary,lord,negative,negative,medium,land
+ne0007,ne0007,Spain,free,heterodiegetic,third-person,female,big-city,mature,high,realistic,Europe,Europe,Spain,Spain,Z,Castilla,contemporary,lord,negative,negative,high,land
+ne0009,ne0009,Spain,free,heterodiegetic,third-person,female,big-city,young,low,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,none,negative,negative,medium,land
+ne0011,ne0011,Spain,free,autodiegetic,first-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,teacher,negative,negative,medium,land
+ne0013,ne0013,Spain,free,autodiegetic,first-person,male,rural,mature,high,realistic,Europe,Europe,Spain,Spain,Brandeso,Galicia,contemporary,lord,negative,negative,high,land
+ne0014,ne0014,Spain,free,autodiegetic,first-person,male,rural,adult,high,realistic,America,not_Europe,Mexico,not_Spain,mixed,Costa de México,contemporary,lord,negative,negative,high,land
+ne0016,ne0016,Spain,free,autodiegetic,first-person,male,rural,adult,high,realistic,Europe,Europe,Italy,not_Spain,Ligura,Liguria,contemporary,lord,negative,negative,high,land
+ne0017,ne0017,Spain,free,heterodiegetic,third-person,female,rural,young,low,realistic,Europe,Europe,Spain,Spain,Brandeso,Galicia,modern_times,beggar,negative,negative,high,land
+ne0018,ne0018,Spain,free,autodiegetic,first-person,male,rural,mature,high,realistic,Europe,Europe,Spain,Spain,Estella,Navarra,contemporary,lord,negative,negative,high,land
+ne0019,ne0019,Spain,free,heterodiegetic,third-person,male,small-city,adult,low,realistic,Europe,Europe,Spain,Spain,Jerez,Andalucía,contemporary,worker,partial negative,negative,medium,land
+ne0020,ne0020,Spain,free,heterodiegetic,third-person,male,rural,mature,high,realistic,Europe,Europe,Spain,Spain,Viana del Prior,Galicia,contemporary,lord,partial negative,negative,high,land
+ne0021,ne0021,Spain,free,heterodiegetic,third-person,male,rural,adult,medium,realistic,Europe,Europe,Spain,Spain,Otaín,Navarra,contemporary,military personnel,negative,negative,high,land
+ne0024,ne0024,Spain,free,heterodiegetic,third-person,male,big-city,young,low,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,servant,negative,negative,medium,land
+ne0027,ne0027,Spain,free,heterodiegetic,third-person,female,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,housewife,negative,negative,medium,land
+ne0028,ne0028,Spain,free,homodiegetic,third-person,female,big-city,young,low,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,servant,partial positive,positive,medium,land
+ne0029,ne0029,Spain,free,autodiegetic,first-person,male,big-city,adult,high,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,business owner,negative,negative,medium,land
+ne0030,ne0030,Spain,free,heterodiegetic,third-person,male,rural,mature,high,realistic,America,not_Europe,Santa Fe de Tierra,not_Spain,Santa Mónica,Santa Mónica,contemporary,politician,positive,positive,medium,land
+ne0031,ne0031,Spain,free,heterodiegetic,third-person,male,big-city,mature,low,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,none,negative,negative,medium,land
+ne0032,ne0032,Spain,free,epistolary,second-person,male,big-city,adult,medium,non-realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,politician,neutral,neutral,medium,land
+ne0033,ne0033,Spain,free,heterodiegetic,third-person,male,big-city,adult,high,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,lord,partial negative,negative,medium,land
+ne0034,ne0034,Spain,free,homodiegetic,third-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,business owner,negative,negative,high,land
+ne0035,ne0035,Spain,free,heterodiegetic,third-person,male,big-city,adult,high,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,lord,partial negative,negative,medium,n.av.
+ne0037,ne0037,Spain,free,heterodiegetic,third-person,other,rural,adult,low,realistic,Europe,Europe,France,not_Spain,mixed,mixed,contemporary,military personnel,negative,negative,high,land
+ne0039,ne0039,Spain,free,homodiegetic,third-person,other,mixed,mature,medium,non-realistic,Europe,Europe,Spain,Spain,mixed,mixed,contemporary,public servant,positive,positive,medium,land
+ne0040,ne0040,Spain,free,homodiegetic,third-person,male,rural,young,medium,realistic,Europe,Europe,Spain,Spain,Majuelos,Valencia,contemporary,artist,negative,negative,high,land
+ne0041,ne0041,Spain,free,heterodiegetic,third-person,male,rural,adult,medium,realistic,Europe,Europe,Spain,Spain,Confines,Valencia,contemporary,doctor,negative,negative,high,land
+ne0042,ne0042,Spain,free,heterodiegetic,third-person,male,rural,young,medium,realistic,Europe,Europe,Spain,Spain,Parcent,Valencia,contemporary,artist,positive,positive,medium,land
+ne0043,ne0043,Spain,free,heterodiegetic,third-person,male,rural,mature,medium,realistic,Europe,Europe,Spain,Spain,mixed,mixed,contemporary,lord,negative,negative,high,land
+ne0044,ne0044,Spain,free,homodiegetic,first-person,male,rural,child,medium,realistic,Europe,Europe,Spain,Spain,mixed,mixed,contemporary,artist,negative,negative,medium,land
+ne0045,ne0045,Spain,free,heterodiegetic,third-person,male,small-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Aduero,Valencia,contemporary,artist,negative,negative,medium,land
+ne0047,ne0047,Spain,free,autodiegetic,first-person,male,rural,child,medium,realistic,Europe,Europe,Spain,Spain,mixed,mixed,contemporary,student,negative,negative,medium,land
+ne0048,ne0048,Spain,free,heterodiegetic,third-person,male,rural,young,medium,realistic,Europe,Europe,Spain,Spain,Almina,Valencia,contemporary,none,negative,negative,high,land
+ne0050,ne0050,Spain,free,heterodiegetic,third-person,female,rural,young,medium,realistic,Europe,Europe,Spain,Spain,Boraida,Valencia,contemporary,none,negative,negative,high,land
+ne0052,ne0052,Spain,free,heterodiegetic,third-person,male,rural,adult,medium,realistic,Europe,Europe,Spain,Spain,Serosca,Valencia,contemporary,business owner,negative,negative,medium,land
+ne0053,ne0053,Spain,free,heterodiegetic,third-person,male,rural,adult,medium,realistic,Europe,Europe,Spain,Spain,Alcera,Valencia,contemporary,business owner,positive,positive,medium,land
+ne0054,ne0054,Spain,free,heterodiegetic,third-person,male,big-city,adult,medium,realistic,Asia,not_Europe,Israel,not_Spain,Jerusalén,Israel,antiquity,religious,negative,negative,medium,land
+ne0055,ne0055,Spain,free,heterodiegetic,third-person,male,big-city,adult,medium,realistic,Asia,not_Europe,Israel,not_Spain,Jerusalén,Israel,antiquity,religious,positive,positive,medium,land
+ne0056,ne0056,Spain,free,heterodiegetic,third-person,male,mixed,adult,medium,realistic,Europe,Europe,Spain,Spain,mixed,mixed,contemporary,public servant,partial positive,positive,medium,land
+ne0057,ne0057,Spain,free,autodiegetic,first-person,male,rural,mature,medium,realistic,Europe,Europe,Spain,Spain,n.av.,Valencia,contemporary,public servant,neutral,neutral,medium,land
+ne0059,ne0059,Spain,free,heterodiegetic,third-person,male,small-city,mature,medium,realistic,Europe,Europe,Spain,Spain,Oleza,Valencia,contemporary,worker,partial positive,positive,medium,land
+ne0061,ne0061,Spain,free,heterodiegetic,third-person,male,rural,child,medium,realistic,Europe,Europe,Spain,Spain,Oleza,Valencia,contemporary,student,neutral,neutral,high,land
+ne0063,ne0063,Spain,restricted,heterodiegetic,third-person,male,big-city,young,low,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,mixed,partial negative,negative,medium,land
+ne0064,ne0064,Spain,restricted,heterodiegetic,third-person,male,big-city,adult,low,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,mixed,neutral,neutral,medium,land
+ne0065,ne0065,Spain,restricted,heterodiegetic,third-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,business owner,positive,positive,medium,land
+ne0066,ne0066,Spain,restricted,heterodiegetic,third-person,male,small-city,child,medium,realistic,Europe,Europe,Spain,Spain,mixed,Navarra,contemporary,military personnel,negative,negative,high,land
+ne0067,ne0067,Spain,restricted,heterodiegetic,third-person,male,big-city,child,low,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,researcher,neutral,neutral,high,land
+ne0068,ne0068,Spain,restricted,heterodiegetic,third-person,male,mixed,young,medium,realistic,Europe,Europe,Spain,Spain,mixed,Castilla,contemporary,doctor,negative,negative,high,land
+ne0069,ne0069,Spain,free,heterodiegetic,third-person,male,big-city,child,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,artist,partial negative,negative,high,land
+ne0070,ne0070,Spain,free,heterodiegetic,third-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,researcher,negative,negative,high,land
+ne0072,ne0072,Spain,free,heterodiegetic,third-person,female,small-city,young,medium,realistic,Europe,Europe,Spain,Spain,unknown,unknown,contemporary,housewife,neutral,neutral,medium,land
+ne0074,ne0074,Spain,free,homodiegetic,third-person,male,rural,adult,medium,realistic,Europe,Europe,Spain,Spain,Valverde de Lucerna,Castilla,contemporary,religious,negative,negative,high,land
+ne0075,ne0075,Spain,free,heterodiegetic,third-person,female,small-city,young,low,realistic,Europe,Europe,Spain,Spain,Marineda,Galicia,contemporary,worker,negative,negative,high,land
+ne0076,ne0076,Spain,free,heterodiegetic,third-person,male,rural,adult,low,realistic,Europe,Europe,Spain,Spain,Vilamorta,Galicia,contemporary,artist,negative,negative,medium,land
+ne0077,ne0077,Spain,free,heterodiegetic,third-person,male,rural,adult,medium,realistic,Europe,Europe,Spain,Spain,Pazos de Ulloa,Galicia,contemporary,religious,negative,negative,high,land
+ne0078,ne0078,Spain,free,heterodiegetic,third-person,male,rural,adult,medium,realistic,Europe,Europe,Spain,Spain,Pazos de Ulloa,Galicia,contemporary,military personnel,negative,negative,medium,land
+ne0079,ne0079,Spain,free,heterodiegetic,third-person,female,big-city,adult,high,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,lord,positive,positive,high,land
+ne0080,ne0080,Spain,free,autodiegetic,first-person,female,small-city,mature,medium,realistic,Europe,Europe,Spain,Spain,Marineda,Galicia,contemporary,worker,negative,negative,medium,land
+ne0081,ne0081,Spain,free,autodiegetic,first-person,male,small-city,adult,high,realistic,Europe,Europe,Spain,Spain,Marineda,Galicia,contemporary,none,positive,positive,medium,land
+ne0082,ne0082,Spain,free,heterodiegetic,third-person,male,small-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Marineda,Galicia,contemporary,doctor,negative,negative,medium,land
+ne0083,ne0083,Spain,free,homodiegetic,third-person,female,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,housewife,partial negative,negative,medium,land
+ne0084,ne0084,Spain,free,mixed,mixed,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,artist,partial negative,negative,medium,land
+ne0085,ne0085,Spain,free,autodiegetic,first-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,public servant,negative,negative,medium,land
+ne0086,ne0086,Spain,free,heterodiegetic,third-person,female,small-city,young,medium,realistic,Europe,Europe,Spain,Spain,Alcalá de Henares,Castilla,contemporary,none,positive,positive,medium,land
+ne0087,ne0087,Spain,free,heterodiegetic,third-person,female,big-city,young,medium,realistic,Europe,Europe,France,not_Spain,París,Isla de Francia,contemporary,housewife,negative,negative,medium,land
+ne0106,ne0106,Spain,free,heterodiegetic,third-person,male,rural,child,high,non-realistic,Europe,Europe,France,not_Spain,mixed,Bretaña,middle_ages,lord,negative,negative,high,land
+ne0108,ne0108,Spain,restricted,autodiegetic,first-person,male,big-city,adult,medium,realistic,Europe,Europe,France,not_Spain,París,Isla de Francia,contemporary,doctor,negative,negative,high,land
+ne0109,ne0109,Spain,restricted,dialogue,second-person,female,rural,adult,high,realistic,Europe,Europe,Spain,Spain,Arbea,País Vasco,contemporary,business owner,positive,positive,medium,land
+ne0114,ne0114,Spain,free,heterodiegetic,third-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Bilbao,País Vasco,contemporary,business owner,negative,negative,medium,land
+ne0120,ne0120,Spain,free,homodiegetic,third-person,male,rural,adult,high,realistic,Europe,Europe,Spain,Spain,unknown,Galicia,contemporary,unknown,negative,negative,high,land
+ne0121,ne0121,Spain,restricted,heterodiegetic,third-person,male,rural,young,medium,realistic,Europe,Europe,Spain,Spain,mixed,mixed,contemporary,artist,partial negative,negative,medium,land
+ne0122,ne0122,Spain,restricted,heterodiegetic,third-person,male,rural,adult,medium,realistic,Europe,Europe,Spain,Spain,mixed,mixed,contemporary,artist,neutral,neutral,medium,land
+ne0123,ne0123,Spain,restricted,autodiegetic,first-person,male,rural,adult,medium,realistic,Europe,Europe,Spain,Spain,Yecla,Valencia,contemporary,artist,neutral,neutral,medium,land
+ne0125,ne0125,Spain,restricted,homodiegetic,third-person,male,rural,mature,low,non-realistic,Europe,Europe,Spain,Spain,Casa Viejas,Andalucía,contemporary,worker,negative,negative,high,land
+ne0126,ne0126,Spain,restricted,autodiegetic,mixed,male,big-city,young,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,journalist,negative,negative,high,land
+ne0130,ne0130,Spain,free,autodiegetic,first-person,male,big-city,adult,medium,non-realistic,Africa,not_Europe,Maya,not_Spain,Maya,Maya,contemporary,politician,neutral,neutral,high,land
+ne0134,ne0134,Spain,free,heterodiegetic,third-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,researcher,neutral,neutral,medium,land
+ne0135,ne0135,Spain,free,heterodiegetic,third-person,male,small-city,adult,medium,realistic,Europe,Europe,Spain,Spain,unknown,Asturias,contemporary,artist,positive,positive,medium,land
+ne0141,ne0141,Spain,restricted,heterodiegetic,third-person,female,rural,young,medium,realistic,Europe,Europe,Spain,Spain,mixed,Galicia,contemporary,journalist,neutral,neutral,medium,land
+ne0142,ne0142,Spain,restricted,heterodiegetic,third-person,male,big-city,adult,low,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,mixed,positive,positive,medium,land
+ne0143,ne0143,Spain,restricted,autodiegetic,first-person,male,big-city,adult,medium,non-realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,worker,negative,negative,medium,land
+ne0144,ne0144,Spain,free,autodiegetic,first-person,male,big-city,young,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,mixed,negative,negative,medium,land
+ne0145,ne0145,Spain,free,autodiegetic,first-person,male,rural,adult,high,realistic,Europe,Europe,Spain,Spain,Tablanca,Cantabria,contemporary,lord,positive,positive,medium,land
+ne0146,ne0146,Spain,free,heterodiegetic,first-person,female,small-city,young,medium,realistic,Europe,Europe,Spain,Spain,Santander,Cantabria,contemporary,none,neutral,neutral,medium,land
+ne0151,ne0151,Spain,free,mixed,first-person,female,big-city,young,high,realistic,mixed,mixed,mixed,mixed,mixed,mixed,contemporary,housewife,negative,negative,high,land
+ne0153,ne0153,Spain,free,heterodiegetic,third-person,male,rural,adult,medium,non-realistic,mixed,mixed,mixed,mixed,mixed,mixed,modern_times,religious,positive,positive,medium,land
+ne0155,ne0155,Spain,free,heterodiegetic,third-person,male,big-city,adult,high,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,none,positive,positive,medium,land
+ne0157,ne0157,Spain,free,heterodiegetic,third-person,female,big-city,adult,high,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,lord,negative,negative,medium,land
+ne0158,ne0158,Spain,free,heterodiegetic,third-person,female,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,housewife,partial positive,positive,medium,land
+ne0159,ne0159,Spain,free,heterodiegetic,third-person,male,rural,young,medium,realistic,Europe,Europe,Spain,Spain,La Joya,Extremadura,contemporary,?,negative,negative,medium,land
+ne0160,ne0160,Spain,free,autodiegetic,first-person,male,boat,adult,medium,realistic,mixed,mixed,mixed,mixed,mixed,mixed,contemporary,military personnel,partial positive,positive,high,sea
+ne0163,ne0163,Spain,free,heterodiegetic,third-person,female,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Valencia,Valencia,contemporary,business owner,negative,negative,medium,land
+ne0164,ne0164,Spain,free,heterodiegetic,third-person,male,rural,adult,low,realistic,Europe,Europe,Spain,Spain,unknown,Valencia,contemporary,worker,negative,negative,medium,land
+ne0168,ne0168,Spain,restricted,autodiegetic,first-person,male,big-city,mature,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,researcher,neutral,neutral,medium,land
+ne0171,ne0171,Spain,restricted,heterodiegetic,third-person,male,big-city,child,medium,non-realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,?,positive,positive,medium,land
+ne0172,ne0172,Spain,restricted,heterodiegetic,third-person,unknown,none,unknown,unknown,non-realistic,Europe,Europe,Spain,Spain,unknown,unknown,contemporary,unknown,neutral,neutral,medium,big-city
+ne0175,ne0175,Spain,free,heterodiegetic,third-person,male,rural,young,medium,realistic,Europe,Europe,Spain,Spain,Guadix,Andalucía,contemporary,worker,negative,negative,medium,land
+ne0176,ne0176,Spain,free,heterodiegetic,third-person,male,rural,adult,medium,realistic,Europe,Europe,Spain,Spain,unknown,Andalucía,contemporary,politician,negative,negative,medium,land
+ne0177,ne0177,Spain,restricted,heterodiegetic,third-person,male,small-city,adult,medium,realistic,Europe,Europe,Spain,Spain,unknown,Andalucía,contemporary,teacher,neutral,neutral,medium,land
+ne0181,ne0181,Spain,restricted,dialogue,second-person,male,rural,adult,high,realistic,Europe,Europe,Spain,Spain,Benicarló,Valencia,contemporary,politician,negative,negative,medium,land
+ne0182,ne0182,Spain,restricted,autodiegetic,first-person,male,boat,adult,medium,realistic,Europe,Europe,mixed,mixed,mixed,mixed,contemporary,seller,positive,positive,high,sea
+ne0183,ne0183,Spain,free,heterodiegetic,third-person,female,big-city,young,high,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,housewife,negative,negative,medium,land
+ne0184,ne0184,Spain,restricted,autodiegetic,first-person,male,big-city,adult,medium,realistic,America,not_Europe,United States of America,not_Spain,New York,New York,contemporary,artist,neutral,neutral,medium,land
+ne0185,ne0185,Spain,restricted,homodiegetic,third-person,male,rural,young,medium,realistic,Europe,Europe,Spain,Spain,Pinares,Asturias,contemporary,artist,negative,negative,medium,land
+ne0186,ne0186,Spain,restricted,heterodiegetic,third-person,male,small-city,child,low,realistic,Europe,Europe,Spain,Spain,Regium,Asturias,contemporary,student,positive,positive,medium,land
+ne0187,ne0187,Spain,restricted,homodiegetic,first-person,male,small-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Pilares,León,contemporary,seller,neutral,neutral,medium,land
+ne0191,ne0191,Spain,free,heterodiegetic,third-person,male,small-city,mature,high,realistic,Europe,Europe,Spain,Spain,Turnovas,Cataluña,antiquity,politician,partial negative,negative,medium,land
+ne0192,ne0192,Spain,free,heterodiegetic,third-person,male,big-city,adult,medium,realistic,Europe,Europe,Atarjea,not_Spain,Granburgo,Granburgo	,contemporary,researcher,negative,negative,medium,land
+ne0193,ne0193,Spain,free,homodiegetic,first-person,male,rural,child,high,realistic,Europe,Europe,Spain,Spain,Valdezotes,unknown,contemporary,politician,negative,negative,medium,land
+ne0195,ne0195,Spain,restricted,heterodiegetic,third-person,female,rural,young,low,realistic,Europe,Europe,Spain,Spain,Valdecruces,León,contemporary,housewife,negative,negative,medium,land
+ne0197,ne0197,Spain,restricted,heterodiegetic,third-person,male,rural,young,high,realistic,Europe,Europe,Spain,Spain,Covadonga,Asturias,contemporary,none,negative,negative,medium,land
+ne0198,ne0198,Spain,free,heterodiegetic,third-person,male,rural,young,low,realistic,Europe,Europe,Spain,Spain,unknown,unknown,contemporary,worker,negative,negative,high,land
+ne0200,ne0200,Spain,free,heterodiegetic,third-person,male,rural,young,medium,non-realistic,Europe,Europe,Spain,Spain,unknown,unknown,contemporary,religious,neutral,neutral,high,land
+ne0206,ne0206,Spain,free,heterodiegetic,third-person,female,big-city,young,low,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,beggar,negative,negative,medium,land
+ne0208,ne0208,Spain,restricted,heterodiegetic,third-person,male,rural,adult,low,realistic,Europe,Europe,Spain,Spain,Entralgo,Asturias,contemporary,worker,negative,negative,medium,land
+ne0209,ne0209,Spain,restricted,heterodiegetic,third-person,female,small-city,young,medium,realistic,Europe,Europe,Spain,Spain,Nieva,Asturias,contemporary,religious,positive,positive,medium,land
+ne0210,ne0210,Spain,restricted,heterodiegetic,third-person,male,rural,adult,low,realistic,Europe,Europe,Spain,Spain,Rodillero,Asturias,contemporary,seaman,positive,positive,medium,land
+ne0211,ne0211,Spain,restricted,heterodiegetic,third-person,female,rural,young,high,realistic,Europe,Europe,Spain,Spain,Condado,Asturias,contemporary,student,positive,positive,medium,land
+ne0212,ne0212,Spain,restricted,autodiegetic,first-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,journalist,negative,negative,medium,land
+ne0215,ne0215,Nicaragua,free,heterodiegetic,third-person,male,small-city,young,high,realistic,Europe,Europe,Italy,not_Spain,Roma,Roma,antiquity,artist,neutral,neutral,high,land
+ne0216,ne0216,Nicaragua,free,heterodiegetic,third-person,male,rural,mature,medium,realistic,Europe,Europe,Spain,Spain,Valldemosa,Mallorca,contemporary,artist,partial negative,negative,high,land
+ne0218,ne0218,Spain,free,autodiegetic,first-person,male,big-city,child,medium,realistic,Europe,Europe,mixed,mixed,mixed,mixed,contemporary,artist,partial positive,positive,medium,land
+ne0223,ne0223,Spain,free,heterodiegetic,third-person,male,big-city,adult,medium,non-realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,researcher,positive,positive,high,land
+ne0224,ne0224,Spain,restricted,dialogue,second-person,male,big-city,adult,medium,realistic,Africa,not_Europe,Guinea,not_Spain,mixed,mixed,contemporary,mixed,negative,negative,medium,land
+ne0227,ne0227,Spain,free,heterodiegetic,third-person,male,rural,adult,medium,realistic,Europe,Europe,Spain,Spain,Castellar,Andalucía,contemporary,doctor,partial negative,negative,medium,land
+ne0229,ne0229,Spain,restricted,heterodiegetic,third-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,?,negative,negative,medium,land
+ne0230,ne0230,Spain,restricted,heterodiegetic,third-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,journalist,negative,negative,medium,land
+ne0231,ne0231,Spain,restricted,heterodiegetic,third-person,male,big-city,child,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,student,positive,positive,medium,land
+ne0234,ne0234,Spain,restricted,homodiegetic,first-person,male,big-city,young,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,journalist,negative,negative,medium,land
+ne0235,ne0235,Spain,restricted,homodiegetic,first-person,male,rural,adult,medium,realistic,Europe,Europe,Spain,Spain,Monleón,País Vasco,contemporary,religious,negative,negative,medium,land
+ne0238,ne0238,Spain,restricted,heterodiegetic,third-person,male,small-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Córdoba,Andalucía,contemporary,business owner,negative,negative,medium,land
+ne0239,ne0239,Spain,restricted,heterodiegetic,third-person,male,big-city,adult,medium,realistic,Europe,Europe,France,not_Spain,París,Isla de Francia,contemporary,?,partial negative,negative,medium,land
+ne0240,ne0240,Spain,restricted,heterodiegetic,third-person,male,big-city,adult,medium,realistic,Europe,Europe,France,not_Spain,Paris,Isla de Francia,contemporary,?,negative,negative,medium,land
+ne0241,ne0241,Spain,restricted,homodiegetic,third-person,male,big-city,adult,high,realistic,Europe,Europe,Italy,not_Spain,Roma,Roma,contemporary,politician,negative,negative,medium,land
+ne0242,ne0242,Spain,restricted,autodiegetic,first-person,male,big-city,mature,medium,realistic,Europe,Europe,mixed,mixed,mixed,mixed,contemporary,?,partial negative,negative,medium,land
+ne0243,ne0243,Spain,restricted,homodiegetic,first-person,male,rural,adult,medium,realistic,Europe,Europe,Spain,Spain,Burgos,Castilla,contemporary,military personnel,neutral,neutral,medium,land
+ne0246,ne0246,Spain,restricted,homodiegetic,first-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,mixed,neutral,neutral,medium,land
+ne0247,ne0247,Spain,restricted,homodiegetic,first-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,mixed,partial negative,negative,medium,land
+ne0248,ne0248,Spain,restricted,heterodiegetic,third-person,male,rural,adult,medium,realistic,Europe,Europe,Spain,Spain,mixed,Andalucía,contemporary,?,negative,negative,medium,land
+ne0250,ne0250,Spain,free,dialogue,second-person,female,small-city,adult,medium,non-realistic,Farsalia Nova,not_Europe,Farsalia Nova,not_Spain,Ursaria,Ursaria,other,teacher,positive,positive,medium,land
+ne0251,ne0251,Spain,free,heterodiegetic,third-person,male,rural,adult,high,non-realistic,Europe,Europe,Spain,Spain,mixed,Castilla,contemporary,lord,partial positive,positive,medium,land
+ne0252,ne0252,Spain,free,heterodiegetic,third-person,male,big-city,adult,low,realistic,Europe,Europe,Spain,Spain,Valencia,Valencia,contemporary,seaman,negative,negative,medium,land
+ne0253,ne0253,Spain,free,heterodiegetic,third-person,male,small-city,young,medium,realistic,Europe,Europe,Spain,Spain,Alcira,Valencia,contemporary,politician,negative,negative,medium,land
+ne0254,ne0254,Spain,free,heterodiegetic,third-person,male,big-city,adult,low,realistic,Europe,Europe,Roman Empire,not_Spain,Sagunto,Valencia,antiquity,military personnel,negative,negative,medium,land
+ne0255,ne0255,Spain,free,heterodiegetic,third-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Valencia,Valencia,contemporary,seaman,negative,negative,medium,land
+ne0256,ne0256,Spain,free,heterodiegetic,third-person,male,small-city,young,medium,realistic,Europe,Europe,Spain,Spain,Toledo,Castilla,contemporary,student,negative,negative,medium,land
+ne0257,ne0257,Spain,free,heterodiegetic,third-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Bilbao,País Vasco,contemporary,doctor,neutral,neutral,medium,land
+ne0258,ne0258,Spain,free,heterodiegetic,third-person,male,big-city,adult,low,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,criminal,partial positive,positive,medium,land
+ne0266,ne0266,Spain,free,heterodiegetic,third-person,male,big-city,adult,medium,non-realistic,Oceanica,not_Europe,Australia,not_Spain,Mildendo,Liliput,contemporary,researcher,positive,positive,medium,land
+ne0274,ne0274,Spain,free,dialogue,second-person,male,big-city,young,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,none,negative,negative,medium,land
+ne0275,ne0275,Spain,free,dialogue,second-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Barcelona,Cataluña,contemporary,business owner,positive,positive,medium,land
+ne0284,ne0284,Spain,free,autodiegetic,first-person,male,big-city,adult,medium,non-realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,journalist,neutral,neutral,medium,land
+ne0285,ne0285,Spain,free,autodiegetic,first-person,male,small-city,adult,medium,non-realistic,Europe,Europe,Spain,Spain,Cartagena,Murcia,contemporary,journalist,neutral,neutral,medium,land
+ne0286,ne0286,Spain,free,autodiegetic,first-person,male,big-city,adult,medium,non-realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,journalist,neutral,neutral,medium,land
+ne0287,ne0287,Spain,free,homodiegetic,first-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,unknown,unknown,contemporary,politician,partial negative,negative,medium,land
+ne0288,ne0288,Spain,free,homodiegetic,third-person,female,rural,child,low,realistic,Europe,Europe,Atarjea,not_Spain,Villaruin,n.av.,contemporary,none,negative,negative,high,land
+ne0291,ne0291,Spain,free,heterodiegetic,third-person,male,small-city,child,medium,realistic,Europe,Europe,Spain,Spain,Salamanca,Castilla,modern_times,student,neutral,neutral,medium,land
+ne0292,ne0292,Spain,restricted,heterodiegetic,third-person,male,small-city,mature,medium,realistic,Europe,Europe,Spain,Spain,Cartagena,Murcia,contemporary,researcher,neutral,neutral,medium,land
+ne0293,ne0293,Spain,restricted,heterodiegetic,third-person,male,rural,adult,low,realistic,Europe,Europe,Spain,Spain,Castelnovo,Castilla,contemporary,none,negative,negative,medium,land
+ne0294,ne0294,Spain,free,heterodiegetic,third-person,female,rural,young,medium,realistic,Europe,Europe,Spain,Spain,Valdecines,Asturias,contemporary,none,negative,negative,medium,land
+ne0296,ne0296,Spain,free,heterodiegetic,third-person,female,rural,young,medium,realistic,Europe,Europe,Spain,Spain,Robleces,Asturias,contemporary,none,partial positive,positive,medium,land
+ne0301,ne0301,Spain,restricted,heterodiegetic,third-person,male,big-city,child,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,adventurer,negative,negative,high,land
+ne0302,ne0302,Spain,restricted,heterodiegetic,third-person,female,big-city,young,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,student,neutral,neutral,medium,land
+ne0303,ne0303,Spain,restricted,mixed,mixed,female,big-city,young,low,realistic,Europe,Europe,United Kingdom,not_Spain,Londres,Londres,contemporary,?,partial negative,negative,medium,land
+ne0304,ne0304,Spain,restricted,autodiegetic,first-person,male,boat,child,medium,realistic,Europe,Europe,Spain,Spain,mixed,mixed,contemporary,seaman,positive,positive,medium,sea
+ne0305,ne0305,Spain,restricted,homodiegetic,first-person,male,boat,adult,medium,realistic,Europe,Europe,Italy,not_Spain,Roccanera,Campania,contemporary,seaman,negative,negative,medium,sea
+ne0306,ne0306,Spain,restricted,autodiegetic,first-person,male,big-city,mature,medium,realistic,Europe,Europe,Spain,Spain,Valencia,Valencia,contemporary,seaman,positive,positive,medium,land
+ne0307,ne0307,Spain,restricted,heterodiegetic,third-person,male,rural,young,medium,realistic,Europe,Europe,Spain,Spain,Vegalora,Asturias,contemporary,?,negative,negative,medium,land
+ne0308,ne0308,Spain,restricted,heterodiegetic,first-person,male,rural,young,high,realistic,Europe,Europe,Spain,Spain,Riofrío,Asturias,contemporary,artist,negative,negative,medium,land
+ne0309,ne0309,Spain,restricted,heterodiegetic,third-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,artist,negative,negative,medium,land
+ne0310,ne0310,Spain,restricted,autodiegetic,first-person,male,big-city,young,medium,realistic,Europe,Europe,Spain,Spain,Sevilla,Andalucía,contemporary,doctor,positive,positive,medium,land
+ne0311,ne0311,Spain,restricted,heterodiegetic,third-person,male,small-city,young,medium,realistic,Europe,Europe,Spain,Spain,Cádiz,Andalucía,contemporary,worker,negative,negative,medium,land
+ne0312,ne0312,Spain,restricted,heterodiegetic,third-person,female,big-city,adult,high,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,?,negative,negative,medium,land
+ne0313,ne0313,Spain,restricted,heterodiegetic,third-person,male,rural,adult,medium,realistic,Europe,Europe,Spain,Spain,Peñascosa,Asturias,contemporary,religious,negative,negative,medium,land
+ne0314,ne0314,Spain,restricted,heterodiegetic,third-person,female,small-city,adult,high,realistic,Europe,Europe,Spain,Spain,Lancia,Asturias,contemporary,housewife,negative,negative,medium,land
+ne0320,ne0320,Spain,restricted,heterodiegetic,third-person,male,rural,child,low,realistic,Europe,Europe,Spain,Spain,unknown,unknown,contemporary,none,negative,negative,high,land
+ne0321,ne0321,Spain,free,heterodiegetic,third-person,male,big-city,young,high,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,business owner,negative,negative,medium,land
+ne0322,ne0322,Spain,free,heterodiegetic,third-person,male,big-city,young,high,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,business owner,negative,negative,medium,land
+ne0323,ne0323,Spain,free,heterodiegetic,third-person,male,big-city,young,high,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,business owner,negative,negative,medium,land
+ne0324,ne0324,Spain,free,heterodiegetic,third-person,male,big-city,young,high,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,business owner,negative,negative,medium,land
+ne0325,ne0325,Spain,free,heterodiegetic,third-person,female,small-city,adult,high,realistic,Europe,Europe,Spain,Spain,Vetusta,Asturias,contemporary,housewife,negative,negative,medium,land
+ne0326,ne0326,Spain,free,heterodiegetic,third-person,female,small-city,adult,high,realistic,Europe,Europe,Spain,Spain,Vetusta,Asturias,contemporary,housewife,partial negative,negative,medium,land
+ne0330,ne0330,Spain,free,heterodiegetic,third-person,male,big-city,adult,low,realistic,Europe,Europe,Spain,Spain,Madrid,Castilla,contemporary,journalist,negative,negative,medium,n.av.
+ne0333,ne0333,Spain,restricted,heterodiegetic,third-person,male,small-city,adult,medium,non-realistic,Europe,Europe,Spain,Spain,unknown,unknown,contemporary,military personnel,partical positive,positive,medium,n.av.
+ne0334,ne0334,Spain,restricted,heterodiegetic,third-person,female,small-city,young,medium,realistic,Europe,Europe,Germany,not_Spain,Selva Negra,Baden-Würtenberg,contemporary,student,negative,negative,medium,n.av.
+ne0345,ne0345,Spain,restricted,homodiegetic,first-person,male,big-city,adult,medium,realistic,Europe,Europe,Spain,Spain,Madrid,Madrid,contemporary,unkwon,negative,negative,medium,n.av.
+ne0347,ne0347,Spain,restricted,heterodiegetic,third-person,male,rural,young,high,realistic,Europe,Europe,Spain,Spain,Conjo,unknown,contemporary,lord,negative,negative,medium,n.av.
+ne0348,ne0348,Spain,restricted,homodiegetic,first-person,male,rural,young,medium,non-realistic,Europe,Europe,Spain,Spain,Negrimia,Negrimia,contemporary,unkwon,negative,negative,medium,n.av.
