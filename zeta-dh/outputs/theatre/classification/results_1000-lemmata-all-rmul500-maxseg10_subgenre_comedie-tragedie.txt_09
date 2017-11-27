@@ -1,0 +1,103 @@
+Using 80 most distintice words according to measure sd0 to classify theatre
+['affaire', 'affairé', 'affreux', 'air', 'argent', 'aussi', 'beau', 'bon', 'bras', 'car', 'cela', 'chez', 'chose', 'comme', 'comment', 'courroux', 'crime', 'cruel', 'destin', 'diable', 'dieu', 'dieux', 'douleur', 'empire', 'ennemi', 'femme', 'fer', 'ferrer', 'fort', 'fou', 'funeste', 'fureur', 'gens', 'gent', 'gloire', 'haine', 'homme', 'horreur', 'immoler', 'jouer', 'juste', 'loi', 'là', 'main', 'malheur', 'mariage', 'monsieur', 'mort', 'oh', 'oser', 'oui', 'pauvre', 'personne', 'petit', 'peu', 'peuple', 'plaire', 'pleur', 'prendre', 'prier', 'prince', 'punir', 'rire', 'roi', 'sang', 'sauver', 'seigneur', 'sort', 'sot', 'trouver', 'très', 'trépas', 'trône', 'tyran', 'vain', 'vengeance', 'venger', 'vertu', 'vite', 'voilà']
+[ 0.99115044  0.96460177  0.97345133];
+Mean: 0.976401179941
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure sd2 to classify theatre
+['affaire', 'affairé', 'aise', 'argent', 'asie', 'attentat', 'auguste', 'autel', 'barbare', 'camp', 'ceci', 'cela', 'clémence', 'comtesse', 'coquin', 'couronne', 'dame', 'diable', 'diadème', 'effroi', 'empereur', 'enrager', 'flanc', 'forfait', 'fripon', 'frémir', 'galant', 'garçon', 'goût', 'honnête', 'horreur', 'héros', 'immoler', 'isabelle', 'joli', 'lisette', 'logis', 'majesté', 'manière', 'mariage', 'marier', 'marquis', 'monsieur', 'morbleu', 'mur', 'murs', 'mâne', 'notaire', 'oh', 'opprimer', 'parbleu', 'pari', 'parricide', 'patrie', 'petit', 'peuple', 'pièce', 'proscrire', 'prêtre', 'question', 'rois', 'romain', 'rome', 'sacrer', 'sceptre', 'soldat', 'sot', 'souiller', 'sénat', 'très', 'trône', 'tyran', 'valet', 'vengeur', 'victime', 'victoire', 'vilain', 'vite', 'écu', 'écus']
+[ 0.97345133  0.97345133  0.98230088];
+Mean: 0.976401179941
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure sdX to classify theatre
+['0je', '10', '1a', '1aquelle', '1âches', '2bat', '2coutez', '5médonie', '7a', 'aaron', 'aatir', 'abaisse', 'abaissement', 'abaisser', 'abaisserais', 'abaissât', 'abaissée', 'abandon', 'abandonne', 'abandonnement', 'abandonner', 'abandonnerais', 'abandonnerait', 'abandonnez', 'abandonné', 'abandonnée', 'abandonnés', 'abantage', 'abasourdir', 'abat', 'abats', 'abattement', 'abatteur', 'abattre', 'abattu', 'abbé', 'abbés', 'abc', 'abcès', 'abdenede', 'évite', 'évitent', 'éviter', 'évitera', 'évitez', 'évitons', 'évitéit', 'évocation', 'évohé', 'évoquer', 'évènement', 'événement', 'évêque', 'êricie', 'êta', 'êtes', 'être', 'êtres', 'êtré', 'êtte', 'ëtes', 'ìndëpendance', 'ìnstinct', 'île', 'îles', 'ïambe', 'ïe', 'ñessus', 'ôhimé', 'ôtant', 'ôte', 'ôtent', 'ôter', 'ôtera', 'ôterai', 'ôtes', 'ôtez', 'ôtons', 'œil', 'œuvre']
+[ 0.50442478  0.56637168  0.74336283];
+Mean: 0.604719764012
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure sr0 to classify theatre
+['aller', 'avoir', 'beau', 'bien', 'bon', 'car', 'cela', 'chose', 'ciel', 'comme', 'crime', 'cruel', 'dans', 'de', 'devoir', 'dieu', 'dieux', 'dire', 'donc', 'en', 'est', 'et', 'faillir', 'faire', 'falloir', 'femme', 'fil', 'fils', 'fort', 'gloire', 'homme', 'il', 'je', 'jour', 'le', 'les', 'leur', 'là', 'main', 'mon', 'monsieur', 'mort', 'mourir', 'même', 'ne', 'notre', 'nous', 'oeil', 'on', 'oui', 'par', 'parler', 'pas', 'petit', 'peu', 'peuple', 'pouvoir', 'prendre', 'prince', 'que', 'quel', 'rien', 'roi', 'rome', 'sang', 'savoir', 'seigneur', 'seul', 'son', 'sort', 'ton', 'tout', 'ur', 'vertu', 'voilà', 'votre', 'vouloir', 'vous', 'yeux', 'être']
+[ 0.96460177  0.92035398  0.9380531 ];
+Mean: 0.941002949853
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure sr2 to classify theatre
+['achille', 'affaire', 'affairé', 'angélique', 'annibal', 'argent', 'arlequin', 'attentat', 'auguste', 'autel', 'bajazet', 'barbare', 'baron', 'bon', 'camp', 'carthage', 'cela', 'comtesse', 'cousin', 'crime', 'dame', 'damis', 'diable', 'diadème', 'dorer', 'empereur', 'forfait', 'fureur', 'goût', 'honnête', 'horreur', 'héros', 'immoler', 'isabelle', 'joli', 'jouer', 'lisette', 'manière', 'mariage', 'marier', 'marquis', 'marquise', 'marton', 'monsieur', 'mur', 'murs', 'oh', 'oncle', 'pari', 'parricide', 'patrie', 'petit', 'peuple', 'pyrrhus', 'périr', 'reine', 'rire', 'roi', 'rois', 'romain', 'rome', 'régner', 'sacrer', 'sang', 'sceptre', 'seigneur', 'sot', 'sénat', 'tante', 'très', 'trône', 'tyran', 'valet', 'vengeur', 'victime', 'victoire', 'vite', 'ça', 'écu', 'écus']
+[ 0.95575221  0.98230088  0.98230088];
+Mean: 0.973451327434
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure srX to classify theatre
+['0je', '10', '1a', '1aquelle', '1âches', '2bat', '2coutez', '5médonie', '7a', 'aaron', 'aatir', 'abaisse', 'abaissement', 'abaisser', 'abaisserais', 'abaissât', 'abaissée', 'abandon', 'abandonne', 'abandonnement', 'abandonner', 'abandonnerais', 'abandonnerait', 'abandonnez', 'abandonné', 'abandonnée', 'abandonnés', 'abantage', 'abasourdir', 'abat', 'abats', 'abattement', 'abatteur', 'abattre', 'abattu', 'abbé', 'abbés', 'abc', 'abcès', 'abdenede', 'évite', 'évitent', 'éviter', 'évitera', 'évitez', 'évitons', 'évitéit', 'évocation', 'évohé', 'évoquer', 'évènement', 'événement', 'évêque', 'êricie', 'êta', 'êtes', 'être', 'êtres', 'êtré', 'êtte', 'ëtes', 'ìndëpendance', 'ìnstinct', 'île', 'îles', 'ïambe', 'ïe', 'ñessus', 'ôhimé', 'ôtant', 'ôte', 'ôtent', 'ôter', 'ôtera', 'ôterai', 'ôtes', 'ôtez', 'ôtons', 'œil', 'œuvre']
+[ 0.50442478  0.53982301  0.82300885];
+Mean: 0.622418879056
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure dd0 to classify theatre
+['agamemnon', 'antigone', 'arlequin', 'arsace', 'artaxerce', 'assommer', 'atrée', 'bajazet', 'bal', 'bourse', 'byzance', 'bâiller', 'capitole', 'carrosse', 'cervelle', 'chaise', 'chanson', 'chrétiens', 'comtesse', 'coquet', 'coquette', 'couvent', 'crète', 'danser', 'darius', 'destructeur', 'diantre', 'drôle', 'dupe', 'duper', 'factieux', 'fat', 'fatime', 'fulvie', 'galanterie', 'ho', 'hébreux', 'hérode', 'impertinence', 'inceste', 'indomptable', 'isabelle', 'israël', 'juan', 'laquais', 'lisette', 'léandre', 'mademoiselle', 'manlius', 'mariamne', 'marius', 'marquise', 'martian', 'morbleu', 'notaire', 'néron', 'original', 'parbleu', 'persan', 'pison', 'pistole', 'plaisant', 'plat', 'poche', 'polixène', 'pontife', 'procureur', 'proscrit', 'prêtres', 'pyrrhus', 'quart', 'régnez', 'scythe', 'sparte', 'sylla', 'syphax', 'tante', 'tibre', 'tibère', 'tribun']
+[ 0.98230088  0.99115044  0.99115044];
+Mean: 0.988200589971
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure dd2 to classify theatre
+['affaire', 'affairé', 'aller', 'argent', 'beau', 'bien', 'bon', 'bras', 'car', 'cela', 'chose', 'comme', 'comment', 'crime', 'cruel', 'destin', 'devoir', 'diable', 'dieu', 'dieux', 'dire', 'donc', 'empire', 'ennemi', 'faire', 'fer', 'fort', 'fou', 'funeste', 'fureur', 'gens', 'gent', 'gloire', 'haine', 'homme', 'honnête', 'horreur', 'héros', 'immoler', 'joli', 'jouer', 'les', 'là', 'main', 'mariage', 'marier', 'monsieur', 'mort', 'oeil', 'oh', 'on', 'par', 'pas', 'petit', 'peuple', 'pleur', 'pour', 'pouvoir', 'prendre', 'prince', 'rire', 'roi', 'romain', 'sang', 'seigneur', 'son', 'sort', 'sot', 'tout', 'très', 'trône', 'tyran', 'valet', 'vertu', 'victime', 'vite', 'voilà', 'vous', 'vraiment', 'yeux']
+[ 0.96460177  0.98230088  0.9380531 ];
+Mean: 0.961651917404
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure ddX to classify theatre
+['0je', '10', '1a', '1aquelle', '1âches', '2bat', '2coutez', '5médonie', '7a', 'aaron', 'aatir', 'abaisse', 'abaissement', 'abaisser', 'abaisserais', 'abaissât', 'abaissée', 'abandon', 'abandonne', 'abandonnement', 'abandonner', 'abandonnerais', 'abandonnerait', 'abandonnez', 'abandonné', 'abandonnée', 'abandonnés', 'abantage', 'abasourdir', 'abat', 'abats', 'abattement', 'abatteur', 'abattre', 'abattu', 'abbé', 'abbés', 'abc', 'abcès', 'abdenede', 'évite', 'évitent', 'éviter', 'évitera', 'évitez', 'évitons', 'évitéit', 'évocation', 'évohé', 'évoquer', 'évènement', 'événement', 'évêque', 'êricie', 'êta', 'êtes', 'être', 'êtres', 'êtré', 'êtte', 'ëtes', 'ìndëpendance', 'ìnstinct', 'île', 'îles', 'ïambe', 'ïe', 'ñessus', 'ôhimé', 'ôtant', 'ôte', 'ôtent', 'ôter', 'ôtera', 'ôterai', 'ôtes', 'ôtez', 'ôtons', 'œil', 'œuvre']
+[ 0.54867257  0.57522124  0.54867257];
+Mean: 0.557522123894
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure dr0 to classify theatre
+['agamemnon', 'ajax', 'alcandre', 'antigone', 'arcas', 'arlequin', 'arsace', 'astérie', 'atrée', 'bajazet', 'bian', 'bourse', 'béatrix', 'capitole', 'carrosse', 'cervelle', 'chaise', 'commandeur', 'comtesse', 'coquet', 'couvent', 'danser', 'darius', 'diantre', 'drôle', 'dupe', 'fat', 'fatime', 'finette', 'frontin', 'hortense', 'hérode', 'isabelle', 'israël', 'jacinte', 'juan', 'judith', 'jé', 'laquais', 'lisette', 'léandre', 'lélio', 'mademoiselle', 'manlius', 'mariamne', 'marius', 'marquise', 'martian', 'marton', 'massinisse', 'morbleu', 'médée', 'notaire', 'opéra', 'parbleu', 'pasquin', 'perdiccas', 'persan', 'philoxène', 'phèdre', 'pison', 'pistole', 'polixène', 'porus', 'procureur', 'proscrit', 'présidente', 'pyrrhus', 'roxane', 'régulus', 'spartacus', 'sparte', 'sylla', 'syphax', 'tante', 'thyeste', 'théodat', 'tibère', 'zaïre', 'zopire']
+[ 0.96460177  0.97345133  0.97345133];
+Mean: 0.970501474926
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure dr2 to classify theatre
+['affaire', 'affairé', 'ah', 'aimer', 'amour', 'argent', 'aussi', 'autre', 'beau', 'bon', 'car', 'cela', 'chez', 'chose', 'ciel', 'comme', 'comment', 'croire', 'devoir', 'diable', 'dieu', 'dieux', 'dire', 'donc', 'donner', 'est', 'faillir', 'falloir', 'femme', 'fil', 'fille', 'fils', 'fort', 'gens', 'gent', 'grand', 'homme', 'ici', 'jouer', 'jour', 'leur', 'lisette', 'là', 'madame', 'main', 'mariage', 'marier', 'marquis', 'monsieur', 'mort', 'même', 'non', 'notre', 'oeil', 'oh', 'oui', 'où', 'parler', 'petit', 'peu', 'prendre', 'qu', 'quel', 'quelque', 'rendre', 'rien', 'rire', 'roi', 'sang', 'seigneur', 'sot', 'sur', 'ton', 'trop', 'trouver', 'très', 'ur', 'venir', 'voilà', 'yeux']
+[ 0.96460177  0.98230088  0.97345133];
+Mean: 0.973451327434
+--------------------
+--------------------
+--------------------
+
+Using 80 most distintice words according to measure drX to classify theatre
+['0je', '10', '1a', '1aquelle', '1âches', '2bat', '2coutez', '5médonie', '7a', 'aaron', 'aatir', 'abaisse', 'abaissement', 'abaisser', 'abaisserais', 'abaissât', 'abaissée', 'abandon', 'abandonne', 'abandonnement', 'abandonner', 'abandonnerais', 'abandonnerait', 'abandonnez', 'abandonné', 'abandonnée', 'abandonnés', 'abantage', 'abasourdir', 'abat', 'abats', 'abattement', 'abatteur', 'abattre', 'abattu', 'abbé', 'abbés', 'abc', 'abcès', 'abdenede', 'évite', 'évitent', 'éviter', 'évitera', 'évitez', 'évitons', 'évitéit', 'évocation', 'évohé', 'évoquer', 'évènement', 'événement', 'évêque', 'êricie', 'êta', 'êtes', 'être', 'êtres', 'êtré', 'êtte', 'ëtes', 'ìndëpendance', 'ìnstinct', 'île', 'îles', 'ïambe', 'ïe', 'ñessus', 'ôhimé', 'ôtant', 'ôte', 'ôtent', 'ôter', 'ôtera', 'ôterai', 'ôtes', 'ôtez', 'ôtons', 'œil', 'œuvre']
+[ 0.54867257  0.63716814  0.53097345];
+Mean: 0.572271386431
+--------------------
+--------------------
+--------------------
+
+Using 80 most frequent words to classify theatre
+['ah', 'aimer', 'aller', 'amour', 'attendre', 'beau', 'bien', 'celui', 'ciel', 'connaître', 'craindre', 'croire', 'croître', 'dieu', 'dieux', 'dire', 'donner', 'dont', 'encor', 'enfin', 'esprit', 'faillir', 'falloir', 'fil', 'fille', 'fils', 'foi', 'fort', 'gloire', 'grand', 'homme', 'jamais', 'jour', 'laisser', 'lieu', 'madame', 'main', 'mal', 'maître', 'mettre', 'monsieur', 'mort', 'mourir', 'non', 'oeil', 'oser', 'oui', 'parler', 'perdre', 'plaire', 'plus', 'point', 'pouvoir', 'prendre', 'prince', 'père', 'quelque', 'quoi', 'rendre', 'rien', 'roi', 'sang', 'savoir', 'seigneur', 'seul', 'soin', 'sort', 'tant', 'temps', 'tenir', 'toujours', 'trouver', 'ur', 'venir', 'vie', 'voilà', 'voir', 'vouloir', 'yeux', 'âme']
+[ 0.97345133  0.97345133  0.95575221]; Mean: 0.967551622419
+--------------------
+--------------------
+--------------------
+
