@@ -1,4 +1,4 @@
-Data for the DH2018 proposal "Exploration of Sentiments and Genre in Spanish American Novels"
+Data for the dh2018 proposal "Exploration of Sentiments and Genre in Spanish American Novels"
 ==============================================
 
 Ulrike Henny-Krahmer
@@ -10,3 +10,6 @@ General and genre related metadata for the novels in the analysis corpus.
 
 
 ### Experiments
+* [experiments](experiments)
+
+Description, data and visualization of results for the experiments.
