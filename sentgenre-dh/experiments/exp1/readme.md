@@ -4,10 +4,10 @@ Experiment 1
 
 ## Parameters
 
-targets: degree of sentimentality (0.0, 0.5, 1.0)
-emotionality threshold: 1
-sentiment lexicon: SentiwordNet 3.0
-tree depth: 4
+* targets: degree of sentimentality (0.0, 0.5, 1.0)
+* emotionality threshold: 1
+* sentiment lexicon: SentiwordNet 3.0
+* tree depth: 4
 
 ## Results
 
