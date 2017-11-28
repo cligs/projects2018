@@ -1,0 +1,31 @@
+,idno,author-name,title,author-gender,author-country,publication-country,year,narrative-perspective,genre,subgenre-title,subgenre-title-norm,subgenre-interp,subgenre-interp-group,subgenre-sentimental-interp,decade,period
+nh0001,nh0001,Villaverde,Guajiro,male,Cuba,Cuba,1842,heterodiegetic,novel,cuadro de costumbres cubanas,novela costumbrista,costumbrista,costumbrista,"0.5",1840,pre1880
+nh0002,nh0002,Payro,Moreira,male,Argentina,Argentina,1910,autodiegetic,novel,divertidas aventuras,novela de aventuras,costumbrista,costumbrista,"0.0",1910,post1880
+nh0003,nh0003,Payro,Laucha,male,Argentina,Argentina,1906,autodiegetic,short novel,-,-,costumbrista,costumbrista,"0.0",1900,post1880
+nh0004,nh0004,Payro,Inca,male,Argentina,Argentina,1905,heterodiegetic,short novel,-,-,historical,historical,"0.0",1900,post1880
+nh0005,nh0005,Altamirano,Navidad,male,Mexico,Mexico,1871,autodiegetic,short novel,-,-,costumbrista,costumbrista,"0.5",1870,pre1880
+nh0006,nh0006,Altamirano,Clemencia,male,Mexico,Mexico,1869,homodiegetic,novel,-,-,sentimental,sentimental,"1.0",1860,pre1880
+nh0007,nh0007,Altamirano,Zarco,male,Mexico,Spain,1901,heterodiegetic,novel,episodios de la vida mexicana en 1861-63,episodios,historical,historical,"0.5",1900,post1880
+nh0008,nh0008,Payro,Chico,male,Argentina,Argentina,1908,heterodiegetic,novel,-,-,costumbrista,costumbrista,"0.0",1900,post1880
+nh0009,nh0009,Gutierrez,Rastreador,male,Argentina,Argentina,1886,heterodiegetic,novel,drama militar,novela de guerra,military,historical,"0.0",1880,post1880
+nh0010,nh0010,Meza,TioEmpleado,male,Cuba,Spain,1887,homodiegetic,novel,-,-,social,sociopolitical,"0.5",1880,post1880
+nh0011,nh0011,Cambaceres,Rumbo,male,Argentina,Argentina,1885,heterodiegetic,short novel,estudio,estudio,naturalistic,sociopolitical,"0.5",1880,post1880
+nh0012,nh0012,Cambaceres,Sangre,male,Argentina,Argentina,1887,heterodiegetic,novel,-,-,naturalistic,sociopolitical,"0.5",1880,post1880
+nh0013,nh0013,Meza,Carmela,male,Cuba,Cuba,1886,heterodiegetic,novel,-,-,social,sociopolitical,"0.5",1880,post1880
+nh0014,nh0014,AuberNoya,Leoncio,female,Cuba,Cuba,1844,heterodiegetic,novel,-,-,sentimental,sentimental,"1.0",1840,pre1880
+nh0015,nh0015,AuberNoya,CasamientoOriginal,female,Cuba,Cuba,1844,heterodiegetic,short novel,-,-,sentimental,sentimental,"1.0",1840,pre1880
+nh0016,nh0016,Calcagno,Romualdo,male,Cuba,Cuba,1881,heterodiegetic,short novel,novela cubana,novela original,anti-slavery,sociopolitical,"0.0",1880,post1880
+nh0017,nh0017,Marmol,Amalia,male,Argentina,Argentina,1855,heterodiegetic,novel,-,-,sentimental,sentimental,"0.5",1850,pre1880
+nh0018,nh0018,Marmol,Anrumarrieta,male,Argentina,Argentina,1851,homodiegetic,short novel,-,-,political,sociopolitical,"0.0",1850,pre1880
+nh0019,nh0019,Guerra,Miranda,female,Argentina,Argentina,1860,heterodiegetic,short novel,-,-,sentimental,sentimental,"1.0",1860,pre1880
+nh0020,nh0020,MansillaLV,Ranqueles,male,Argentina,Argentina,1870,autodiegetic,novel,-,-,costumbrista,costumbrista,"0.0",1870,pre1880
+nh0022,nh0022,Frias,Tomochic,male,Mexico,USA,1894,heterodiegetic,novel,novela histórica mexicana,novela histórica,historical,historical,"0.5",1890,post1880
+nh0023,nh0023,Rabasa,Bola,male,Mexico,Mexico,1887,autodiegetic,novel,-,-,political,sociopolitical,"0.5",1880,post1880
+nh0054,nh0054,Gutierrez,Chacho,male,Argentina,Argentina,1884,heterodiegetic,novel,-,-,military,historical,"0.0",1880,post1880
+nh0055,nh0055,Gutierrez,Montoneros,male,Argentina,Argentina,1886,heterodiegetic,novel,drama militar,novela de guerra,military,historical,"0.0",1880,post1880
+nh0056,nh0056,Gutierrez,MuerteHeroe,male,Argentina,Argentina,1886,heterodiegetic,novel,drama militar,novela de guerra,military,historical,"0.0",1880,post1880
+nh0091,nh0091,Calcagno,DonEnriquito,male,Cuba,Cuba,1895,heterodiegetic,short novel,novela histórica cubana,novela histórica,historical,historical,"0.5",1890,post1880
+nh0096,nh0096,Mitre,Soledad,male,Argentina,Bolivia,1847,heterodiegetic,novel,novela original,novela original,sentimental,sentimental,"1.0",1840,pre1880
+nh0102,nh0102,Villaverde,DosAmores,male,Cuba,Spain,1858,heterodiegetic,novel,novela original,novela original,sentimental,sentimental,"1.0",1850,pre1880
+nh0219,nh0219,delCampo,Camila,male,Argentina,Argentina,1856,heterodiegetic,novel,novela original,novela original,sentimental,sentimental,"1.0",1850,pre1880
+nh0220,nh0220,PuigPuente,CampanaTarde,male,Cuba,Cuba,1873,heterodiegetic,novel,novela cubana,novela original,sentimental,sentimental,"0.5",1870,pre1880
