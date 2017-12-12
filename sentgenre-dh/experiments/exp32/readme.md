@@ -1,0 +1,15 @@
+Experiment 32
+==============================================
+(Data for the dh2018 proposal "Exploration of Sentiments and Genre in Spanish American Novels")
+
+## Parameters
+
+* targets: degree of sentimentality (0.0, 0.5, 1.0)
+* emotionality threshold: 0
+* sentiment lexicon/selected features: NRC (polarity + basic emotions)
+* tree depth: 5
+
+## Results
+
+F1 score: 0.458935786436
+* [tree](tree): visualization of one tree from the experiment

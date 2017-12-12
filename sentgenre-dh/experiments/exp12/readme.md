@@ -1,6 +1,6 @@
 Experiment 12
 ==============================================
-(Data for the dh2018 proposal "Exploration of Sentiments and Genre in Spanish American Novels") 
+(Data for the dh2018 proposal "Exploration of Sentiments and Genre in Spanish American Novels")
 
 ## Parameters
 
@@ -12,9 +12,4 @@ Experiment 12
 ## Results
 
 F1 score: 0.474416291769
-
 * [tree](tree): visualization of one tree from the experiment
-
-
-
-
