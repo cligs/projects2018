@@ -1,15 +1,16 @@
-Daten zur Einreichung "Alternative Gattungstheorien: Das Prototypenmodell am Beispiel hispanoamerikanischer Romane" für die DHd2018
+"Alternative Gattungstheorien: Das Prototypenmodell am Beispiel hispanoamerikanischer Romane"
 ==============================================
  
+Daten zur Einreichung für die DHd2018
 
 ## Metadata
-* [metadata.csv](metadata.csv)
+* [Metadaten](metadata.csv)
 
 
 ## Topic-Modell
-* [topic-model](Topic-Modell)
+* [Topic-Modell](topic-model)
 
-Das Topic-Modell wurde mit [http://mallet.cs.umass.edu/topics.php](MALLET) erstellt. Folgende Parameter wurden gesetzt:
+Das Topic-Modell wurde mit [MALLET](http://mallet.cs.umass.edu/topics.php) erstellt. Folgende Parameter wurden gesetzt:
 
 * Lemmatisierung/Substantive
 * Segmentlänge von 1000 Wörtern
