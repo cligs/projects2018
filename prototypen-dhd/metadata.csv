@@ -1,0 +1,81 @@
+,idno,subgenre,subgenre-label,prototype,author-name,title,year,decade,country,supergenre
+nh0002,nh0002,costumbrista,Kostumbristischer Roman,no,Payró,Las aventuras de un nieto de Juan Moreira,1910,1910,Argentina,-
+nh0003,nh0003,costumbrista,Kostumbristischer Roman,no,Payró,El casamiento de Laucha,1906,1900,Argentina,-
+nh0004,nh0004,historisch,Historischer Roman,no,Payró,El falso Inca,1905,1900,Argentina,-
+nh0006,nh0006,sentimental,Liebesroman,no,Altamirano,Clemencia,1869,1860,México,-
+nh0007,nh0007,historisch,Historischer Roman,no,Altamirano,El Zarco,1901,1900,México,-
+nh0011,nh0011,costumbrista,Kostumbristischer Roman,no,Cambaceres,Sin rumbo,1885,1880,Argentina,-
+nh0012,nh0012,costumbrista,Kostumbristischer Roman,no,Cambaceres,En la sangre,1887,1880,Argentina,-
+nh0013,nh0013,antisklaverei,Antisklaverei-Roman,no,Meza,Carmela,1886,1880,Cuba,costumbrista
+nh0014,nh0014,sentimental,Liebesroman,no,Auber Noya,Leoncio,1844,1840,Cuba,-
+nh0015,nh0015,sentimental,Liebesroman,no,Auber Noya,Un casamiento original,1844,1840,Cuba,-
+nh0016,nh0016,antisklaverei,Antisklaverei-Roman,no,Calcagno,Romualdo,1881,1880,Cuba,costumbrista
+nh0017,nh0017,gaucho,Gaucho-Roman,no,Mármol,Amalia,1855,1850,Argentina,costumbrista
+nh0020,nh0020,costumbrista,Kostumbristischer Roman,no,Mansilla LV,Una excursión a los indios ranqueles,1870,1870,Argentina,-
+nh0022,nh0022,historisch,Historischer Roman,no,Frías,Tomóchic,1895,1890,México,-
+nh0024,nh0024,gaucho,Gaucho-Roman,no,Mansilla,El médico de San Luis,1860,1860,Argentina,costumbrista
+nh0026,nh0026,historisch,Historischer Roman,no,Ancona,La cruz y la espada,1866,1860,México,-
+nh0027,nh0027,costumbrista,Kostumbristischer Roman,no,López,La gran aldea,1884,1880,Argentina,-
+nh0028,nh0028,costumbrista,Kostumbristischer Roman,no,Cané Hijo,Juvenilia,1884,1880,Argentina,-
+nh0034,nh0034,costumbrista,Kostumbristischer Roman,no,Cambaceres,Música sentimental,1884,1880,Argentina,-
+nh0035,nh0035,historisch,Historischer Roman,no,López,La novia del hereje,1855,1850,México,-
+nh0036,nh0036,costumbrista,Kostumbristischer Roman,no,López Portillo,La parcela,1898,1890,México,-
+nh0037,nh0037,historisch,Historischer Roman,no,López,La loca de la guardia,1896,1890,México,-
+nh0044,nh0044,costumbrista,Kostumbristischer Roman,no,Castellanos,La Conjura,1909,1900,Cuba,-
+nh0048,nh0048,costumbrista,Kostumbristischer Roman,no,Ocantos,Don Perfecto,1902,1900,Argentina,-
+nh0049,nh0049,historisch,Historischer Roman,no,Riva Palacio,Martín Garatuza,1868,1860,México,-
+nh0050,nh0050,costumbrista,Kostumbristischer Roman,no,Cuéllar,Ensalada de Pollos,1871,1870,México,-
+nh0052,nh0052,costumbrista,Kostumbristischer Roman,no,Delgado,Los parientes ricos,1902,1900,México,-
+nh0053,nh0053,gaucho,Gaucho-Roman,yes,Gutiérrez,Juan Moreira,1880,1880,Argentina,costumbrista
+nh0057,nh0057,costumbrista,Kostumbristischer Roman,no,Cambaceres,Pot-pourri,1882,1880,Argentina,-
+nh0060,nh0060,costumbrista,Kostumbristischer Roman,no,Miró,La bolsa,1891,1890,Argentina,-
+nh0064,nh0064,historisch,Historischer Roman,no,Díaz Covarrubias,Gil Gómez,1858,1850,México,-
+nh0066,nh0066,sentimental,Liebesroman,no,Altamirano,Antonia,1872,1870,México,-
+nh0067,nh0067,antisklaverei,Antisklaverei-Roman,no,Heredia,Leonela,1893,1890,Cuba,costumbrista
+nh0068,nh0068,costumbrista,Kostumbristischer Roman,no,Delgado,La Calandria,1890,1890,México,-
+nh0069,nh0069,historisch,Historischer Roman,no,Mateos,El cerro de las campanas,1868,1860,México,-
+nh0072,nh0072,sentimental,Liebesroman,no,Altamirano,Julia,1870,1870,México,-
+nh0074,nh0074,historisch,Historischer Roman,no,Calcagno,Las Lazo,1893,1890,Cuba,-
+nh0078,nh0078,costumbrista,Kostumbristischer Roman,no,Álvarez,Tierras de matreros,1897,1890,Argentina,-
+nh0079,nh0079,costumbrista,Kostumbristischer Roman,no,Álvarez,Memorias de un vigilante,1897,1890,Argentina,-
+nh0080,nh0080,costumbrista,Kostumbristischer Roman,no,Gamboa,Santa,1903,1900,México,-
+nh0087,nh0087,sentimental,Liebesroman,no,Cané Padre,Esther,1858,1850,Argentina,-
+nh0089,nh0089,sentimental,Liebesroman,no,Delgado,Angelina,1893,1890,México,-
+nh0090,nh0090,costumbrista,Kostumbristischer Roman,no,Payno,Los bandidos de Río Frío,1891,1890,México,-
+nh0093,nh0093,gaucho,Gaucho-Roman,no,Estrada,El hogar en la pampa,1866,1860,Argentina,costumbrista
+nh0094,nh0094,gaucho,Gaucho-Roman,no,Manso Noronha,Los misterios del Plata,1868,1860,Argentina,costumbrista
+nh0096,nh0096,sentimental,Liebesroman,no,Mitre,Soledad,1847,1840,Argentina,-
+nh0102,nh0102,sentimental,Liebesroman,no,Villaverde,Dos amores,1858,1850,Cuba,-
+nh0103,nh0103,sentimental,Liebesroman,no,del Castillo,Amor y desgracia,1849,1840,México,-
+nh0105,nh0105,costumbrista,Kostumbristischer Roman,no,Payno,El hombre de la situación,1861,1860,México,-
+nh0108,nh0108,costumbrista,Kostumbristischer Roman,no,Inclán,Astucia,1865,1860,México,-
+nh0109,nh0109,antisklaverei,Antisklaverei-Roman,no,Morua Delgado,Sofía,1891,1890,Cuba,costumbrista
+nh0113,nh0113,antisklaverei,Antisklaverei-Roman,yes,Gómez Avellaneda,Sab,1841,1840,Cuba,costumbrista
+nh0118,nh0118,antisklaverei,Antisklaverei-Roman,no,Villaverde,Cecilia Valdés,1879,1870,Cuba,costumbrista
+nh0120,nh0120,costumbrista,Kostumbristischer Roman,no,Payno,El fistol del diablo,1859,1850,México,-
+nh0126,nh0126,gaucho,Gaucho-Roman,no,Cané Padre,La familia de Sconner,1858,1850,Argentina,costumbrista
+nh0134,nh0134,antisklaverei,Antisklaverei-Roman,no,Tanco Bosmeniel,Petrona y Rosalia,1838,1830,Cuba,costumbrista
+nh0135,nh0135,antisklaverei,Antisklaverei-Roman,no,Zambrana Vázquez,El negro Francisco,1873,1870,Cuba,costumbrista
+nh0140,nh0140,sentimental,Liebesroman,no,Gómez Avellaneda,Dos mujeres,1843,1840,Cuba,-
+nh0152,nh0152,historisch,Historischer Roman,no,Paz,Juarez,1902,1900,México,-
+nh0156,nh0156,sentimental,Liebesroman,no,Paz,La piedra del sacrificio,1871,1870,México,-
+nh0162,nh0162,sentimental,Liebesroman,no,Paz,Amor de viejo,1874,1870,México,-
+nh0165,nh0165,antisklaverei,Antisklaverei-Roman,no,Palma,El cólera en La Habana,1838,1830,Cuba,costumbrista
+nh0180,nh0180,historisch,Historischer Roman,no,Ancona,El filibustero,1864,1860,México,-
+nh0195,nh0195,sentimental,Liebesroman,no,Pelliza Sagasta,Margarita,1875,1870,Argentina,-
+nh0196,nh0196,historisch,Historischer Roman,no,Paz,Su alteza sereníssima,1895,1890,México,-
+nh0197,nh0197,costumbrista,Kostumbristischer Roman,no,Cuéllar,Historia de Chucho el Ninfo,1871,1870,México,-
+nh0203,nh0203,historisch,Historischer Roman,no,RivaPalacio,Monja y casada,1868,1860,México,-
+nh0217,nh0217,costumbrista,Kostumbristischer Roman,no,Méndez Cuenca,El espejo de Amarilis,1902,1900,México,-
+nh0218,nh0218,gaucho,Gaucho-Roman,no,Llanos,Arturo Sierra,1884,1880,Argentina,costumbrista
+nh0219,nh0219,costumbrista,Kostumbristischer Roman,yes,Lizardi,Noches tristes y día alegre,1818,1810,México,-
+nh0220,nh0220,costumbrista,Kostumbristischer Roman,yes,Lizardi,Don Catrín de la Fachenda,1818,1810,México,-
+nh0221,nh0221,costumbrista,Kostumbristischer Roman,yes,Lizardi,El Periquillo Sarniento,1816,1810,México,-
+nh0401,nh0401,costumbrista,Kostumbristischer Roman,yes,Caballero,La Gaviota,1849,1840,Spain,-
+nh0402,nh0402,costumbrista,Kostumbristischer Roman,yes,Pereda,Peñas arriba,1895,1890,Spain,-
+nh0403,nh0403,costumbrista,Kostumbristischer Roman,yes,Pereda,Sotileza,1884,1880,Spain,-
+nh0404,nh0404,costumbrista,Kostumbristischer Roman,yes,Alarcón,El sombrero de tres picos,1874,1870,Spain,-
+nh0405,nh0405,costumbrista,Kostumbristischer Roman,yes,Valera,Pepita Jiménez,1874,1870,Spain,-
+nh0501,nh0501,antisklaverei,Antisklaverei-Roman,no,Morillas,El ranchador,1856,1850,Cuba,costumbrista
+nh0800,nh0800,historisch,Historischer Roman,yes,Scott,Waverley,1814,1810,England,-
+nh0801,nh0801,sentimental,Liebesroman,yes,Rousseau,Julia o la nueva Eloísa,1761,1760,France,-
