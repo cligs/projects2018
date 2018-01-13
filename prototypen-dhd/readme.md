@@ -3,6 +3,8 @@
  
 Daten zur Einreichung für die DHd2018
 
+(Ulrike Henny-Krahmer, Katrin Betz, Daniel Schlör, Andreas Hotho)
+
 ## Metadata
 * [Metadaten](metadata.csv)
 
