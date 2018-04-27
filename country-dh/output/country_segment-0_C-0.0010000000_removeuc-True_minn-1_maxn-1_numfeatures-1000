@@ -1,0 +1,98 @@
+Using segment size 0
+unter({'Mexico': 32, 'Argentina': 26, 'Spain': 24, 'Cuba': 18})
+Creating Vectorizers...
+...done!
+Vectorizing...
+...done!
+             precision    recall  f1-score   support
+
+          0      0.000     0.000     0.000        24
+          1      0.000     0.000     0.000        18
+          2      0.320     1.000     0.485        32
+          3      0.000     0.000     0.000        26
+
+avg / total      0.102     0.320     0.155       100
+
+[[ 0  0 24  0]
+ [ 0  0 18  0]
+ [ 0  0 32  0]
+ [ 0  0 26  0]]
+[ 0.33333333  0.33333333  0.27272727  0.27272727  0.3         0.3
+  0.33333333  0.33333333  0.375       0.375     ]
+27.053936004638672
+Top Features for country 0, Spain in the folds:
+0: [['de', 'que', 'la', 'el', 'en', 'se', 'no', 'los', 'su', 'un'], ['juanita', 'taberna', 'reales', 'duros', 'moragas', 'capellán', 'huerta', 'mosén', 'señorito', 'barraca']]
+1: [['de', 'que', 'la', 'el', 'en', 'se', 'los', 'no', 'su', 'un'], ['juanita', 'batiste', 'reales', 'moragas', 'paisaje', 'señorito', 'huerta', 'mosén', 'sigüenza', 'barraca']]
+2: [['de', 'que', 'la', 'el', 'en', 'se', 'los', 'no', 'su', 'un'], ['batiste', 'duros', 'paisaje', 'moragas', 'capellán', 'huerta', 'señorito', 'mosén', 'sigüenza', 'barraca']]
+3: [['de', 'que', 'la', 'el', 'en', 'se', 'no', 'los', 'su', 'un'], ['duquesa', 'juanita', 'batiste', 'capellán', 'moragas', 'reales', 'huerta', 'señorito', 'sigüenza', 'barraca']]
+4: [['de', 'que', 'la', 'el', 'en', 'se', 'no', 'los', 'su', 'un'], ['pesetas', 'juanita', 'duquesa', 'carne', 'moragas', 'paisaje', 'capellán', 'mosén', 'señorito', 'sigüenza']]
+5: [['de', 'que', 'la', 'el', 'en', 'no', 'se', 'los', 'su', 'un'], ['paisaje', 'moragas', 'reales', 'capellán', 'carne', 'huerta', 'mosén', 'señorito', 'sigüenza', 'barraca']]
+6: [['de', 'que', 'la', 'el', 'en', 'se', 'los', 'no', 'su', 'un'], ['duros', 'paisaje', 'moragas', 'capellán', 'huerta', 'reales', 'mosén', 'señorito', 'sigüenza', 'barraca']]
+7: [['de', 'que', 'la', 'el', 'en', 'no', 'se', 'los', 'su', 'un'], ['paisaje', 'moragas', 'carne', 'capellán', 'huerta', 'reales', 'mosén', 'señorito', 'sigüenza', 'barraca']]
+8: [['de', 'que', 'la', 'el', 'en', 'se', 'no', 'los', 'su', 'un'], ['juanita', 'duquesa', 'batiste', 'reales', 'capellán', 'mosén', 'huerta', 'señorito', 'sigüenza', 'barraca']]
+9: [['de', 'que', 'la', 'el', 'en', 'se', 'los', 'no', 'su', 'un'], ['batiste', 'paisaje', 'duros', 'moragas', 'reales', 'huerta', 'mosén', 'señorito', 'sigüenza', 'barraca']]
+Contra:
+[('no', 10), ('los', 10), ('su', 10), ('que', 10), ('de', 10), ('la', 10), ('en', 10), ('un', 10), ('el', 10), ('se', 10)]
+Pro:
+[('señorito', 10), ('moragas', 9), ('mosén', 9), ('sigüenza', 9), ('huerta', 9), ('barraca', 9), ('reales', 8), ('capellán', 8), ('paisaje', 7), ('juanita', 5), ('batiste', 5), ('duros', 4), ('carne', 3), ('duquesa', 3), ('pesetas', 1), ('taberna', 1)]
+--------------------
+
+
+
+Top Features for country 1, Cuba in the folds:
+0: [['de', 'que', 'la', 'el', 'en', 'no', 'los', 'se', 'con', 'un'], ['finca', 'machete', 'esclavos', 'esclava', 'condesa', 'ingenio', 'brigadier', 'mayoral', 'mulato', 'esclavo']]
+1: [['de', 'que', 'la', 'el', 'en', 'los', 'no', 'se', 'con', 'un'], ['machete', 'esclavos', 'finca', 'esclava', 'condesa', 'mayoral', 'mulato', 'ingenio', 'carlos', 'esclavo']]
+2: [['de', 'que', 'la', 'el', 'en', 'no', 'los', 'se', 'con', 'un'], ['machete', 'finca', 'esclavos', 'ingenio', 'carlos', 'mulato', 'brigadier', 'mayoral', 'condesa', 'esclavo']]
+3: [['de', 'que', 'la', 'el', 'en', 'los', 'no', 'se', 'con', 'un'], ['machete', 'esclavos', 'esclava', 'finca', 'mayoral', 'condesa', 'ingenio', 'carlos', 'esclavo', 'brigadier']]
+4: [['de', 'que', 'la', 'el', 'en', 'los', 'no', 'se', 'con', 'un'], ['sab', 'leoncio', 'camila', 'finca', 'mayoral', 'carlos', 'condesa', 'brigadier', 'mulato', 'esclavo']]
+5: [['de', 'que', 'la', 'el', 'en', 'los', 'no', 'se', 'con', 'un'], ['finca', 'esclavos', 'esclava', 'mulato', 'carlos', 'brigadier', 'condesa', 'ingenio', 'mayoral', 'esclavo']]
+6: [['de', 'que', 'la', 'el', 'en', 'los', 'no', 'se', 'con', 'un'], ['machete', 'lomas', 'mayoral', 'mulato', 'esclava', 'ingenio', 'esclavo', 'condesa', 'carlos', 'brigadier']]
+7: [['de', 'que', 'la', 'el', 'en', 'los', 'no', 'se', 'con', 'un'], ['finca', 'esclavos', 'esclava', 'carlos', 'condesa', 'ingenio', 'mulato', 'brigadier', 'mayoral', 'esclavo']]
+8: [['de', 'que', 'la', 'el', 'en', 'los', 'no', 'se', 'con', 'un'], ['finca', 'esclava', 'esclavos', 'condesa', 'carlos', 'ingenio', 'brigadier', 'mayoral', 'mulato', 'esclavo']]
+9: [['de', 'que', 'la', 'el', 'en', 'no', 'los', 'se', 'con', 'un'], ['lomas', 'machete', 'esclavos', 'esclava', 'finca', 'brigadier', 'ingenio', 'mayoral', 'mulato', 'esclavo']]
+Contra:
+[('no', 10), ('los', 10), ('que', 10), ('de', 10), ('la', 10), ('en', 10), ('con', 10), ('un', 10), ('el', 10), ('se', 10)]
+Pro:
+[('mayoral', 10), ('esclavo', 10), ('brigadier', 9), ('mulato', 9), ('finca', 9), ('condesa', 9), ('ingenio', 9), ('esclava', 8), ('carlos', 8), ('esclavos', 8), ('machete', 6), ('lomas', 2), ('leoncio', 1), ('camila', 1), ('sab', 1)]
+--------------------
+
+
+
+Top Features for country 2, Mexico in the folds:
+0: [['de', 'la', 'que', 'el', 'en', 'su', 'no', 'los', 'se', 'con'], ['arturo', 'oficiales', 'concha', 'hacienda', 'vd', 'capitán', 'teófilo', 'general', 'coronel', 'usted']]
+1: [['de', 'la', 'que', 'el', 'en', 'su', 'los', 'no', 'se', 'un'], ['vuestra', 'virrey', 'hacienda', 'mas', 'martín', 'vos', 'coronel', 'don', 'teófilo', 'os']]
+2: [['de', 'la', 'que', 'el', 'en', 'su', 'los', 'no', 'se', 'un'], ['virrey', 'hacienda', 'martín', 'capitán', 'general', 'usted', 'doña', 'teófilo', 'coronel', 'don']]
+3: [['de', 'la', 'que', 'el', 'en', 'su', 'no', 'los', 'se', 'un'], ['vos', 'virrey', 'don', 'martín', 'capitán', 'teófilo', 'general', 'coronel', 'os', 'usted']]
+4: [['de', 'la', 'que', 'el', 'en', 'su', 'no', 'los', 'se', 'un'], ['virrey', 'pesos', 'hacienda', 'martín', 'os', 'coronel', 'capitán', 'teófilo', 'general', 'don']]
+5: [['de', 'la', 'que', 'el', 'en', 'su', 'los', 'no', 'se', 'un'], ['pesos', 'capitán', 'hacienda', 'general', 'virrey', 'martín', 'don', 'os', 'coronel', 'teófilo']]
+6: [['de', 'la', 'que', 'el', 'en', 'su', 'no', 'los', 'un', 'se'], ['os', 'arturo', 'concha', 'hacienda', 'virrey', 'usted', 'capitán', 'general', 'coronel', 'don']]
+7: [['de', 'la', 'que', 'el', 'en', 'su', 'no', 'los', 'se', 'un'], ['oficiales', 'concha', 'hacienda', 'virrey', 'capitán', 'martín', 'don', 'general', 'teófilo', 'coronel']]
+8: [['de', 'la', 'que', 'el', 'en', 'su', 'no', 'los', 'se', 'un'], ['vos', 'concha', 'martín', 'virrey', 'general', 'capitán', 'don', 'teófilo', 'coronel', 'os']]
+9: [['de', 'la', 'que', 'el', 'en', 'no', 'su', 'los', 'se', 'un'], ['vd', 'hacienda', 'virrey', 'martín', 'capitán', 'os', 'teófilo', 'general', 'coronel', 'don']]
+Contra:
+[('no', 10), ('los', 10), ('su', 10), ('que', 10), ('de', 10), ('la', 10), ('en', 10), ('el', 10), ('se', 10), ('un', 9), ('con', 1)]
+Pro:
+[('coronel', 10), ('don', 9), ('teófilo', 9), ('capitán', 9), ('general', 9), ('virrey', 9), ('hacienda', 8), ('martín', 8), ('os', 7), ('concha', 4), ('usted', 4), ('vos', 3), ('vd', 2), ('arturo', 2), ('pesos', 2), ('oficiales', 2), ('vuestra', 1), ('doña', 1), ('mas', 1)]
+--------------------
+
+
+
+Top Features for country 3, Argentina in the folds:
+0: [['de', 'que', 'la', 'en', 'el', 'se', 'no', 'los', 'con', 'su'], ['daga', 'pulpería', 'ofelia', 'rancho', 'ño', 'moreira', 'paisano', 'misia', 'gaucho', 'indios']]
+1: [['de', 'que', 'la', 'el', 'en', 'no', 'se', 'con', 'los', 'su'], ['ofelia', 'pulpería', 'rancho', 'vd', 'ño', 'paisano', 'moreira', 'misia', 'gaucho', 'indios']]
+2: [['de', 'que', 'la', 'el', 'en', 'no', 'se', 'con', 'los', 'su'], ['daga', 'eduardo', 'ofelia', 'rancho', 'paisano', 'doctor', 'misia', 'moreira', 'gaucho', 'indios']]
+3: [['de', 'que', 'la', 'el', 'en', 'se', 'no', 'los', 'con', 'su'], ['doctor', 'pulpería', 'rancho', 'ofelia', 'ño', 'paisano', 'moreira', 'misia', 'gaucho', 'indios']]
+4: [['de', 'que', 'la', 'el', 'en', 'se', 'no', 'los', 'con', 'su'], ['eduardo', 'alberto', 'pulpería', 'ofelia', 'paisano', 'ño', 'indios', 'moreira', 'gaucho', 'misia']]
+5: [['de', 'que', 'la', 'el', 'en', 'se', 'no', 'con', 'los', 'su'], ['peones', 'mate', 'alberto', 'eduardo', 'rancho', 'ofelia', 'gaucho', 'ño', 'misia', 'indios']]
+6: [['de', 'que', 'la', 'en', 'el', 'no', 'se', 'con', 'su', 'los'], ['misia', 'daga', 'eduardo', 'rancho', 'pulpería', 'ño', 'paisano', 'moreira', 'gaucho', 'indios']]
+7: [['de', 'que', 'la', 'en', 'el', 'se', 'no', 'los', 'con', 'su'], ['eduardo', 'ño', 'pulpería', 'ofelia', 'doctor', 'paisano', 'moreira', 'misia', 'gaucho', 'indios']]
+8: [['de', 'que', 'la', 'el', 'en', 'se', 'no', 'los', 'con', 'su'], ['eduardo', 'mate', 'pulpería', 'ofelia', 'rancho', 'ño', 'paisano', 'moreira', 'misia', 'gaucho']]
+9: [['de', 'que', 'la', 'el', 'en', 'se', 'no', 'los', 'con', 'su'], ['eduardo', 'rancho', 'pulpería', 'ofelia', 'paisano', 'ño', 'moreira', 'misia', 'gaucho', 'indios']]
+Contra:
+[('no', 10), ('los', 10), ('su', 10), ('que', 10), ('de', 10), ('la', 10), ('en', 10), ('con', 10), ('el', 10), ('se', 10)]
+Pro:
+[('gaucho', 10), ('misia', 10), ('paisano', 9), ('moreira', 9), ('ofelia', 9), ('indios', 9), ('ño', 9), ('pulpería', 8), ('rancho', 8), ('eduardo', 7), ('doctor', 3), ('daga', 3), ('alberto', 2), ('mate', 2), ('vd', 1), ('peones', 1)]
+--------------------
+
+
+

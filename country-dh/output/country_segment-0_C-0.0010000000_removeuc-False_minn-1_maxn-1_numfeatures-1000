@@ -1,0 +1,98 @@
+Collecting data...
+Counter({'Mexico': 32, 'Argentina': 26, 'Spain': 24, 'Cuba': 18})
+Creating Vectorizers...
+...done!
+Vectorizing...
+...done!
+             precision    recall  f1-score   support
+
+          0      0.000     0.000     0.000        24
+          1      0.000     0.000     0.000        18
+          2      0.320     1.000     0.485        32
+          3      0.000     0.000     0.000        26
+
+avg / total      0.102     0.320     0.155       100
+
+[[ 0  0 24  0]
+ [ 0  0 18  0]
+ [ 0  0 32  0]
+ [ 0  0 26  0]]
+[ 0.33333333  0.33333333  0.27272727  0.27272727  0.3         0.3
+  0.33333333  0.33333333  0.375       0.375     ]
+28.146413803100586
+Top Features for country 0, Spain in the folds:
+0: [['de', 'que', 'la', 'el', 'en'], ['moragas', 'rafaela', 'cristeta', 'morsamor', 'juanita']]
+1: [['de', 'que', 'la', 'el', 'en'], ['rafaela', 'cristeta', 'morsamor', 'juanita', 'sigüenza']]
+2: [['de', 'que', 'la', 'el', 'en'], ['rafaela', 'moragas', 'cristeta', 'morsamor', 'sigüenza']]
+3: [['de', 'que', 'la', 'el', 'en'], ['moragas', 'rafaela', 'morsamor', 'juanita', 'sigüenza']]
+4: [['de', 'que', 'la', 'el', 'en'], ['rafaela', 'cristeta', 'morsamor', 'juanita', 'sigüenza']]
+5: [['de', 'que', 'la', 'el', 'en'], ['rafaela', 'cristeta', 'morsamor', 'juanita', 'sigüenza']]
+6: [['de', 'que', 'la', 'el', 'en'], ['moragas', 'rafaela', 'cristeta', 'juanita', 'sigüenza']]
+7: [['de', 'que', 'la', 'el', 'en'], ['moragas', 'cristeta', 'morsamor', 'juanita', 'sigüenza']]
+8: [['de', 'que', 'la', 'el', 'en'], ['rafaela', 'cristeta', 'morsamor', 'juanita', 'sigüenza']]
+9: [['de', 'que', 'la', 'el', 'en'], ['madrid', 'cristeta', 'morsamor', 'juanita', 'sigüenza']]
+Contra:
+[('en', 10), ('que', 10), ('el', 10), ('la', 10), ('de', 10)]
+Pro:
+[('juanita', 9), ('sigüenza', 9), ('cristeta', 9), ('morsamor', 9), ('rafaela', 8), ('moragas', 5), ('madrid', 1)]
+--------------------
+
+
+
+Top Features for country 1, Cuba in the folds:
+0: [['de', 'que', 'la', 'el', 'en'], ['carlota', 'justa', 'carmela', 'joaquín', 'leoncio']]
+1: [['de', 'que', 'la', 'el', 'en'], ['carmela', 'habana', 'camila', 'leoncio', 'carlos']]
+2: [['de', 'que', 'la', 'el', 'en'], ['carmela', 'joaquín', 'camila', 'leoncio', 'carlos']]
+3: [['de', 'que', 'la', 'el', 'en'], ['lucía', 'carmela', 'camila', 'joaquín', 'carlos']]
+4: [['de', 'que', 'la', 'el', 'en'], ['carmela', 'camila', 'joaquín', 'leoncio', 'carlos']]
+5: [['de', 'que', 'la', 'el', 'en'], ['carmela', 'joaquín', 'camila', 'leoncio', 'carlos']]
+6: [['de', 'que', 'la', 'el', 'en'], ['camila', 'joaquín', 'leoncio', 'carlota', 'carlos']]
+7: [['de', 'que', 'la', 'el', 'en'], ['lucía', 'leoncio', 'camila', 'joaquín', 'carlos']]
+8: [['de', 'que', 'la', 'el', 'en'], ['lucía', 'gonzalo', 'camila', 'leoncio', 'carlos']]
+9: [['de', 'que', 'la', 'el', 'en'], ['lucía', 'carmela', 'joaquín', 'camila', 'leoncio']]
+Contra:
+[('en', 10), ('que', 10), ('el', 10), ('la', 10), ('de', 10)]
+Pro:
+[('leoncio', 9), ('camila', 9), ('joaquín', 8), ('carlos', 8), ('carmela', 7), ('lucía', 4), ('carlota', 2), ('gonzalo', 1), ('justa', 1), ('habana', 1)]
+--------------------
+
+
+
+Top Features for country 2, Mexico in the folds:
+0: [['de', 'la', 'que', 'el', 'en'], ['usted', 'julia', 'facundo', 'santa', 'méxico']]
+1: [['de', 'la', 'que', 'el', 'en'], ['julia', 'os', 'don', 'facundo', 'méxico']]
+2: [['de', 'la', 'que', 'el', 'en'], ['julia', 'facundo', 'santa', 'don', 'méxico']]
+3: [['de', 'la', 'que', 'el', 'en'], ['leonel', 'martín', 'don', 'santa', 'méxico']]
+4: [['de', 'la', 'que', 'el', 'en'], ['martín', 'facundo', 'santa', 'méxico', 'don']]
+5: [['de', 'la', 'que', 'el', 'en'], ['martín', 'don', 'facundo', 'santa', 'méxico']]
+6: [['de', 'la', 'que', 'el', 'en'], ['arturo', 'facundo', 'santa', 'don', 'méxico']]
+7: [['de', 'la', 'que', 'el', 'en'], ['martín', 'don', 'julia', 'facundo', 'méxico']]
+8: [['de', 'la', 'que', 'el', 'en'], ['julia', 'don', 'facundo', 'santa', 'méxico']]
+9: [['de', 'la', 'que', 'el', 'en'], ['martín', 'facundo', 'santa', 'méxico', 'don']]
+Contra:
+[('en', 10), ('que', 10), ('el', 10), ('la', 10), ('de', 10)]
+Pro:
+[('méxico', 10), ('facundo', 9), ('don', 9), ('santa', 8), ('martín', 5), ('julia', 5), ('leonel', 1), ('usted', 1), ('os', 1), ('arturo', 1)]
+--------------------
+
+
+
+Top Features for country 3, Argentina in the folds:
+0: [['de', 'que', 'la', 'en', 'el'], ['bohórquez', 'indios', 'aires', 'moreira', 'vd']]
+1: [['de', 'que', 'la', 'el', 'en'], ['indios', 'eduardo', 'aires', 'moreira', 'vd']]
+2: [['de', 'que', 'la', 'el', 'en'], ['indios', 'aires', 'eduardo', 'moreira', 'vd']]
+3: [['de', 'que', 'la', 'el', 'en'], ['indios', 'aires', 'luis', 'vd', 'moreira']]
+4: [['de', 'que', 'la', 'el', 'en'], ['bohórquez', 'aires', 'eduardo', 'moreira', 'vd']]
+5: [['de', 'que', 'la', 'el', 'en'], ['bohórquez', 'indios', 'aires', 'eduardo', 'vd']]
+6: [['de', 'que', 'la', 'en', 'el'], ['bohórquez', 'aires', 'eduardo', 'moreira', 'vd']]
+7: [['de', 'que', 'la', 'el', 'en'], ['indios', 'eduardo', 'aires', 'moreira', 'vd']]
+8: [['de', 'que', 'la', 'el', 'en'], ['ofelia', 'eduardo', 'aires', 'moreira', 'vd']]
+9: [['de', 'que', 'la', 'el', 'en'], ['indios', 'eduardo', 'aires', 'moreira', 'vd']]
+Contra:
+[('en', 10), ('que', 10), ('el', 10), ('la', 10), ('de', 10)]
+Pro:
+[('aires', 10), ('vd', 10), ('moreira', 9), ('eduardo', 8), ('indios', 7), ('bohórquez', 4), ('luis', 1), ('ofelia', 1)]
+--------------------
+
+
+

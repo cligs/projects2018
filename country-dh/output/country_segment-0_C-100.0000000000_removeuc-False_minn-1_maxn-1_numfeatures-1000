@@ -1,0 +1,98 @@
+Collecting data...
+Counter({'Mexico': 32, 'Argentina': 26, 'Spain': 24, 'Cuba': 18})
+Creating Vectorizers...
+...done!
+Vectorizing...
+...done!
+             precision    recall  f1-score   support
+
+          0      0.677     0.875     0.764        24
+          1      0.700     0.389     0.500        18
+          2      0.765     0.812     0.788        32
+          3      0.680     0.654     0.667        26
+
+avg / total      0.710     0.710     0.699       100
+
+[[21  0  0  3]
+ [ 4  7  3  4]
+ [ 4  1 26  1]
+ [ 2  2  5 17]]
+[ 0.75        0.91666667  0.72727273  0.72727273  0.6         0.7
+  0.66666667  0.77777778  0.75        0.5       ]
+94.84804272651672
+Top Features for country 0, Spain in the folds:
+0: [['una', 'joven', 'sus', 'un', 'había'], ['del', 'las', 'si', 'le', 'pero']]
+1: [['joven', 'julián', 'una', 'un', 'ese'], ['era', 'pero', 'ella', 'él', 'si']]
+2: [['joven', 'una', 'sus', 'los', 'ese'], ['del', 'le', 'mujer', 'pero', 'las']]
+3: [['joven', 'una', 'don', 'sus', 'ni'], ['le', 'mí', 'sigüenza', 'si', 'las']]
+4: [['joven', 'una', 'ese', 'había', 'santa'], ['con', 'ella', 'mujer', 'pero', 'le']]
+5: [['joven', 'ese', 'una', 'sus', 'te'], ['mí', 'con', 'pero', 'ella', 'si']]
+6: [['joven', 'había', 'una', 'ese', 'sus'], ['ella', 'con', 'las', 'pero', 'si']]
+7: [['joven', 'había', 'una', 'ese', 'sus'], ['mí', 'le', 'mujer', 'si', 'con']]
+8: [['una', 'joven', 'ni', 'ese', 'santa'], ['pero', 'sigüenza', 'mí', 'ella', 'con']]
+9: [['joven', 'una', 'ese', 'sus', 'magdalena'], ['mujer', 'ella', 'pero', 'si', 'con']]
+Contra:
+[('joven', 10), ('una', 10), ('ese', 8), ('sus', 7), ('había', 4), ('un', 2), ('ni', 2), ('santa', 2), ('los', 1), ('don', 1), ('magdalena', 1), ('julián', 1), ('te', 1)]
+Pro:
+[('pero', 8), ('si', 7), ('ella', 6), ('con', 6), ('le', 5), ('las', 4), ('mí', 4), ('mujer', 4), ('sigüenza', 2), ('del', 2), ('él', 1), ('era', 1)]
+--------------------
+
+
+
+Top Features for country 1, Cuba in the folds:
+0: [['francisco', 'qué', 'él', 'después', 'de'], ['augusto', 'más', 'magdalena', 'en', 'su']]
+1: [['después', 'qué', 'él', 'pero', 'lo'], ['magdalena', 'en', 'carlos', 'más', 'su']]
+2: [['pero', 'después', 'qué', 'de', 'luis'], ['negros', 'su', 'carlos', 'augusto', 'en']]
+3: [['de', 'pero', 'moreira', 'él', 'qué'], ['carlos', 'augusto', 'magdalena', 'su', 'en']]
+4: [['me', 'pero', 'de', 'moreira', 'los'], ['magdalena', 'joaquín', 'lucía', 'en', 'su']]
+5: [['como', 'qué', 'de', 'él', 'muy'], ['negros', 'carlos', 'magdalena', 'más', 'su']]
+6: [['él', 'pero', 'luis', 'qué', 'he'], ['no', 'en', 'augusto', 'magdalena', 'su']]
+7: [['con', 'después', 'moreira', 'de', 'él'], ['joaquín', 'carlos', 'sobre', 'augusto', 'su']]
+8: [['qué', 'de', 'después', 'luis', 'él'], ['negros', 'magdalena', 'augusto', 'su', 'en']]
+9: [['pero', 'de', 'después', 'qué', 'dijo'], ['lucía', 'magdalena', 'en', 'augusto', 'su']]
+Contra:
+[('qué', 8), ('de', 8), ('él', 7), ('después', 6), ('pero', 6), ('moreira', 3), ('luis', 3), ('he', 1), ('francisco', 1), ('los', 1), ('como', 1), ('me', 1), ('lo', 1), ('dijo', 1), ('con', 1), ('muy', 1)]
+Pro:
+[('su', 10), ('en', 8), ('magdalena', 8), ('augusto', 7), ('carlos', 5), ('más', 3), ('negros', 3), ('lucía', 2), ('joaquín', 2), ('sobre', 1), ('no', 1)]
+--------------------
+
+
+
+Top Features for country 2, Mexico in the folds:
+0: [['si', 'como', 'sin', 'sobre', 'más'], ['lope', 'méxico', 'qué', 'ya', 'santa']]
+1: [['más', 'sobre', 'como', 'si', 'ella'], ['julián', 'qué', 'méxico', 'santa', 'ya']]
+2: [['más', 'si', 'sobre', 'su', 'como'], ['ni', 'méxico', 'qué', 'santa', 'ya']]
+3: [['si', 'más', 'como', 'sobre', 'ella'], ['ya', 'qué', 'méxico', 'santa', 'ni']]
+4: [['más', 'sobre', 'ella', 'como', 'si'], ['ni', 'qué', 'se', 'méxico', 'santa']]
+5: [['sobre', 'más', 'del', 'si', 'ella'], ['lope', 'joven', 'te', 'santa', 'qué']]
+6: [['sobre', 'más', 'si', 'como', 'ella'], ['méxico', 'santa', 'muy', 'qué', 'ya']]
+7: [['si', 'sobre', 'sin', 'más', 'ella'], ['pero', 'qué', 'ni', 'ya', 'méxico']]
+8: [['sobre', 'como', 'más', 'ella', 'si'], ['muy', 'qué', 'méxico', 'santa', 'ya']]
+9: [['como', 'sobre', 'si', 'más', 'sin'], ['te', 'ni', 'santa', 'méxico', 'qué']]
+Contra:
+[('si', 10), ('sobre', 10), ('más', 10), ('como', 8), ('ella', 7), ('sin', 3), ('su', 1), ('del', 1)]
+Pro:
+[('qué', 10), ('méxico', 9), ('santa', 9), ('ya', 7), ('ni', 5), ('te', 2), ('lope', 2), ('muy', 2), ('pero', 1), ('julián', 1), ('joven', 1), ('se', 1)]
+--------------------
+
+
+
+Top Features for country 3, Argentina in the folds:
+0: [['se', 'le', 'pero', 'en', 'esto'], ['aires', 'sin', 'moreira', 'luis', 'lo']]
+1: [['se', 'tan', 'ya', 'esto', 'yo'], ['buenos', 'aires', 'una', 'es', 'lo']]
+2: [['le', 'se', 'tan', 'para', 'ya'], ['luis', 'moreira', 'mi', 'eduardo', 'como']]
+3: [['se', 'esto', 'le', 'muy', 'pero'], ['sobre', 'aires', 'lo', 'como', 'luis']]
+4: [['se', 'le', 'en', 'esto', 'tan'], ['aires', 'bohórquez', 'luis', 'sobre', 'como']]
+5: [['se', 'esto', 'en', 'muy', 'le'], ['bohórquez', 'luis', 'sobre', 'como', 'lo']]
+6: [['se', 'le', 'muy', 'pero', 'ya'], ['eduardo', 'luis', 'dijo', 'sobre', 'como']]
+7: [['se', 'le', 'esto', 'tan', 'muy'], ['buenos', 'aires', 'como', 'luis', 'lo']]
+8: [['se', 'con', 'ya', 'esto', 'para'], ['aires', 'lo', 'sobre', 'luis', 'como']]
+9: [['se', 'le', 'esto', 'en', 'muy'], ['aires', 'eduardo', 'dijo', 'lo', 'como']]
+Contra:
+[('se', 10), ('esto', 8), ('le', 8), ('muy', 5), ('en', 4), ('ya', 4), ('tan', 4), ('pero', 3), ('para', 2), ('con', 1), ('yo', 1)]
+Pro:
+[('como', 8), ('luis', 8), ('aires', 7), ('lo', 7), ('sobre', 5), ('eduardo', 3), ('bohórquez', 2), ('buenos', 2), ('dijo', 2), ('moreira', 2), ('sin', 1), ('una', 1), ('mi', 1), ('es', 1)]
+--------------------
+
+
+

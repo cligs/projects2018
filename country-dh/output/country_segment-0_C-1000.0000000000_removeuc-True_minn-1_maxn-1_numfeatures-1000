@@ -1,0 +1,98 @@
+Using segment size 0
+unter({'Mexico': 32, 'Argentina': 26, 'Spain': 24, 'Cuba': 18})
+Creating Vectorizers...
+...done!
+Vectorizing...
+...done!
+             precision    recall  f1-score   support
+
+          0      0.733     0.917     0.815        24
+          1      0.769     0.556     0.645        18
+          2      0.765     0.812     0.788        32
+          3      0.739     0.654     0.694        26
+
+avg / total      0.751     0.750     0.744       100
+
+[[22  0  0  2]
+ [ 3 10  3  2]
+ [ 3  1 26  2]
+ [ 2  2  5 17]]
+[ 0.83333333  0.91666667  0.72727273  0.72727273  0.7         0.7
+  0.55555556  0.77777778  0.875       0.5       ]
+107.49555039405823
+Top Features for country 0, Spain in the folds:
+0: [['sus', 'joven', 'una', 'ese', 'lo', 'mi', 'un', 'había', 'los', 'luego'], ['hombre', 'todo', 'las', 'al', 'yo', 'mujer', 'del', 'le', 'si', 'pero']]
+1: [['joven', 'ese', 'una', 'los', 'un', 'corazón', 'doctor', 'ni', 'sí', 'sus'], ['yo', 'mí', 'todo', 'pero', 'algo', 'mujer', 'tan', 'ella', 'si', 'él']]
+2: [['una', 'joven', 'sus', 'ni', 'los', 'ese', 'mi', 'noche', 'te', 'así'], ['del', 'todo', 'ella', 'tan', 'algo', 'las', 'le', 'mí', 'pero', 'mujer']]
+3: [['joven', 'una', 'ni', 'sus', 'don', 'ese', 'doctor', 'luego', 'qué', 'noche'], ['más', 'al', 'mujer', 'todo', 'le', 'pero', 'algo', 'él', 'mí', 'si']]
+4: [['joven', 'una', 'sus', 'ese', 'ni', 'había', 'doctor', 'noche', 'corazón', 'ciudad'], ['tan', 'todo', 'le', 'ella', 'con', 'si', 'él', 'mujer', 'mí', 'pero']]
+5: [['joven', 'ese', 'una', 'sus', 'ni', 'te', 'esa', 'qué', 'doctor', 'noche'], ['todo', 'con', 'tan', 'del', 'le', 'mujer', 'mí', 'ella', 'si', 'pero']]
+6: [['joven', 'una', 'sus', 'ni', 'ese', 'había', 'así', 'doctor', 'dijo', 'noche'], ['esto', 'del', 'algo', 'él', 'mujer', 'con', 'mí', 'si', 'ella', 'pero']]
+7: [['joven', 'una', 'ese', 'sus', 'había', 'ni', 'noche', 'hubiera', 'frente', 'luego'], ['algo', 'él', 'hombre', 'al', 'le', 'mí', 'ella', 'con', 'mujer', 'si']]
+8: [['ni', 'una', 'joven', 'ese', 'sus', 'ciudad', 'doctor', 'esa', 'ya', 'frente'], ['algo', 'tan', 'si', 'mujer', 'todo', 'él', 'pero', 'ella', 'con', 'mí']]
+9: [['una', 'joven', 'sus', 'ese', 'ni', 'sí', 'corazón', 'así', 'que', 'pesos'], ['esto', 'tan', 'le', 'mí', 'con', 'ella', 'si', 'él', 'mujer', 'pero']]
+Contra:
+[('joven', 10), ('sus', 10), ('una', 10), ('ese', 10), ('ni', 9), ('doctor', 6), ('noche', 6), ('había', 4), ('luego', 3), ('corazón', 3), ('los', 3), ('así', 3), ('esa', 2), ('frente', 2), ('sí', 2), ('ciudad', 2), ('qué', 2), ('un', 2), ('te', 2), ('mi', 2), ('pesos', 1), ('don', 1), ('dijo', 1), ('lo', 1), ('hubiera', 1), ('que', 1), ('ya', 1)]
+Pro:
+[('mujer', 10), ('pero', 9), ('mí', 9), ('si', 9), ('ella', 8), ('todo', 7), ('le', 7), ('él', 7), ('tan', 6), ('con', 6), ('algo', 6), ('del', 4), ('al', 3), ('yo', 2), ('las', 2), ('esto', 2), ('hombre', 2), ('más', 1)]
+--------------------
+
+
+
+Top Features for country 1, Cuba in the folds:
+0: [['después', 'él', 'qué', 'pero', 'he', 'mas', 'vida', 'dijo', 'pobre', 'médico'], ['hijos', 'joven', 'negros', 'una', 'negro', 'aquella', 'le', 'su', 'más', 'en']]
+1: [['después', 'pero', 'él', 'qué', 'médico', 'he', 'vida', 'lo', 'viejo', 'poco'], ['esclavo', 'un', 'aquella', 'le', 'negros', 'joven', 'negro', 'su', 'más', 'en']]
+2: [['pero', 'después', 'médico', 'he', 'él', 'qué', 'mujer', 'pobre', 'amor', 'hasta'], ['más', 'aquella', 'sobre', 'una', 'joven', 'su', 'negros', 'negro', 'le', 'en']]
+3: [['pero', 'después', 'él', 'qué', 'he', 'dijo', 'pobre', 'de', 'con', 'tenía'], ['licenciado', 'una', 'ciudad', 'negros', 'negro', 'joven', 'aquella', 'su', 'más', 'en']]
+4: [['pero', 'me', 'él', 'después', 'médico', 'he', 'mujer', 'qué', 'los', 'mas'], ['es', 'joven', 'toda', 'ciudad', 'una', 'más', 'aquella', 'le', 'su', 'en']]
+5: [['después', 'médico', 'pero', 'qué', 'él', 'he', 'señor', 'como', 'tenía', 'muy'], ['para', 'aquella', 'sobre', 'negros', 'una', 'negro', 'en', 'le', 'más', 'su']]
+6: [['él', 'he', 'pero', 'después', 'vida', 'qué', 'hasta', 'mas', 'era', 'me'], ['licenciado', 'perros', 'más', 'no', 'negro', 'le', 'aquella', 'joven', 'en', 'su']]
+7: [['después', 'con', 'pero', 'he', 'él', 'día', 'pobre', 'era', 'días', 'vida'], ['joven', 'negros', 'aquella', 'negro', 'un', 'le', 'más', 'en', 'sobre', 'su']]
+8: [['qué', 'después', 'él', 'pero', 'he', 'vida', 'dijo', 'mas', 'de', 'lo'], ['perros', 'un', 'hijos', 'ciudad', 'negro', 'más', 'negros', 'le', 'su', 'en']]
+9: [['después', 'pero', 'él', 'qué', 'dijo', 'señor', 'con', 'me', 'he', 'tenía'], ['negros', 'negro', 'madre', 'joven', 'más', 'hubiera', 'le', 'su', 'aquella', 'en']]
+Contra:
+[('he', 10), ('pero', 10), ('después', 10), ('él', 10), ('qué', 9), ('médico', 5), ('vida', 5), ('pobre', 4), ('dijo', 4), ('mas', 4), ('me', 3), ('con', 3), ('tenía', 3), ('señor', 2), ('de', 2), ('lo', 2), ('hasta', 2), ('mujer', 2), ('era', 2), ('viejo', 1), ('días', 1), ('como', 1), ('poco', 1), ('muy', 1), ('los', 1), ('amor', 1), ('día', 1)]
+Pro:
+[('su', 10), ('más', 10), ('en', 10), ('aquella', 9), ('negro', 9), ('le', 9), ('joven', 8), ('negros', 8), ('una', 5), ('sobre', 3), ('ciudad', 3), ('un', 3), ('hijos', 2), ('perros', 2), ('licenciado', 2), ('no', 1), ('esclavo', 1), ('hubiera', 1), ('madre', 1), ('para', 1), ('toda', 1), ('es', 1)]
+--------------------
+
+
+
+Top Features for country 2, Mexico in the folds:
+0: [['si', 'como', 'sobre', 'ella', 'señora', 'indios', 'del', 'su', 'hombre', 'mismo'], ['con', 'respondió', 'se', 'muy', 'capitán', 'te', 'usted', 'he', 'qué', 'ya']]
+1: [['sobre', 'más', 'como', 'si', 'ella', 'su', 'es', 'sin', 'indios', 'mismo'], ['usted', 'muy', 'he', 'os', 'te', 'corazón', 'luego', 'ni', 'qué', 'ya']]
+2: [['sobre', 'si', 'como', 'más', 'su', 'ella', 'indios', 'otro', 'del', 'mismo'], ['general', 'muy', 'corazón', 'coronel', 'capitán', 'te', 'he', 'qué', 'ni', 'ya']]
+3: [['si', 'como', 'sobre', 'ella', 'más', 'del', 'sin', 'allí', 'indios', 'mismo'], ['he', 'corazón', 'muy', 'capitán', 'te', 'luego', 'pero', 'ya', 'qué', 'ni']]
+4: [['ella', 'sobre', 'más', 'si', 'como', 'otro', 'él', 'al', 'mismo', 'sin'], ['don', 'médico', 'joven', 'pero', 'corazón', 'capitán', 'se', 'ya', 'qué', 'ni']]
+5: [['sobre', 'del', 'si', 'más', 'ella', 'como', 'su', 'sin', 'mismo', 'indios'], ['así', 'he', 'médico', 'corazón', 'muy', 'joven', 'ni', 'te', 'ya', 'qué']]
+6: [['sobre', 'si', 'ella', 'como', 'más', 'al', 'señora', 'del', 'yo', 'indios'], ['médico', 'así', 'joven', 'he', 'te', 'pero', 'muy', 'ni', 'qué', 'ya']]
+7: [['si', 'sobre', 'sin', 'ella', 'su', 'más', 'como', 'indios', 'señora', 'al'], ['capitán', 'muy', 'así', 'corazón', 'pero', 'joven', 'he', 'qué', 'ni', 'ya']]
+8: [['sobre', 'como', 'ella', 'si', 'su', 'más', 'él', 'señora', 'le', 'otro'], ['luego', 'capitán', 'médico', 'os', 'he', 'te', 'muy', 'ni', 'qué', 'ya']]
+9: [['si', 'sobre', 'como', 'sin', 'ella', 'más', 'indios', 'mismo', 'todo', 'otro'], ['respondió', 'los', 'luego', 'he', 'capitán', 'muy', 'te', 'ya', 'qué', 'ni']]
+Contra:
+[('sobre', 10), ('como', 10), ('si', 10), ('ella', 10), ('más', 9), ('indios', 8), ('mismo', 7), ('sin', 6), ('su', 6), ('del', 5), ('otro', 4), ('señora', 4), ('al', 3), ('él', 2), ('yo', 1), ('le', 1), ('es', 1), ('allí', 1), ('hombre', 1), ('todo', 1)]
+Pro:
+[('ya', 10), ('qué', 10), ('ni', 9), ('he', 9), ('muy', 9), ('te', 8), ('capitán', 7), ('corazón', 6), ('joven', 4), ('luego', 4), ('médico', 4), ('pero', 4), ('así', 3), ('os', 2), ('se', 2), ('respondió', 2), ('usted', 2), ('con', 1), ('don', 1), ('coronel', 1), ('los', 1), ('general', 1)]
+--------------------
+
+
+
+Top Features for country 3, Argentina in the folds:
+0: [['se', 'le', 'esto', 'muy', 'ya', 'en', 'tan', 'con', 'pero', 'esta'], ['hijo', 'señora', 'el', 'sobre', 'sin', 'como', 'indios', 'dijo', 'doctor', 'lo']]
+1: [['tan', 'se', 'le', 'esto', 'ya', 'yo', 'era', 'con', 'mas', 'joven'], ['indios', 'medio', 'señor', 'es', 'como', 'dijo', 'una', 'sobre', 'doctor', 'lo']]
+2: [['le', 'se', 'tan', 'para', 'ya', 'esta', 'muy', 'con', 'en', 'esto'], ['lo', 'señor', 'sus', 'el', 'sobre', 'indios', 'dijo', 'mi', 'doctor', 'como']]
+3: [['se', 'esto', 'le', 'os', 'muy', 'tan', 'en', 'esta', 'para', 'ya'], ['misia', 'sobre', 'el', 'indios', 'lo', 'sus', 'dijo', 'ha', 'doctor', 'como']]
+4: [['le', 'se', 'en', 'tan', 'esto', 'para', 'ya', 'esta', 'con', 'mí'], ['hecho', 'medio', 'una', 'siempre', 'sus', 'indios', 'doctor', 'dijo', 'sobre', 'como']]
+5: [['se', 'le', 'esto', 'muy', 'en', 'tan', 'esta', 'para', 'con', 'porque'], ['del', 'uno', 'medio', 'tía', 'dijo', 'señor', 'sobre', 'lo', 'indios', 'como']]
+6: [['le', 'se', 'muy', 'ya', 'para', 'tan', 'pero', 'esto', 'joven', 'con'], ['hecho', 'indios', 'doctor', 'ha', 'el', 'medio', 'lo', 'sobre', 'como', 'dijo']]
+7: [['se', 'le', 'esto', 'tan', 'para', 'en', 'con', 'esta', 'ya', 'muy'], ['medio', 'tía', 'misia', 'sus', 'indios', 'sobre', 'lo', 'doctor', 'como', 'dijo']]
+8: [['se', 'le', 'esto', 'con', 'para', 'tan', 'en', 'ya', 'os', 'esta'], ['sus', 'hacer', 'ha', 'misia', 'hijo', 'dijo', 'doctor', 'lo', 'sobre', 'como']]
+9: [['se', 'le', 'en', 'esto', 'muy', 'para', 'don', 'ya', 'tan', 'os'], ['hacer', 'señor', 'misia', 'una', 'doctor', 'sobre', 'indios', 'lo', 'dijo', 'como']]
+Contra:
+[('le', 10), ('tan', 10), ('esto', 10), ('se', 10), ('ya', 9), ('en', 8), ('con', 8), ('para', 8), ('esta', 7), ('muy', 7), ('os', 3), ('joven', 2), ('pero', 2), ('era', 1), ('yo', 1), ('mí', 1), ('don', 1), ('mas', 1), ('porque', 1)]
+Pro:
+[('como', 10), ('dijo', 10), ('sobre', 10), ('lo', 9), ('doctor', 9), ('indios', 9), ('sus', 5), ('medio', 5), ('señor', 4), ('el', 4), ('misia', 4), ('ha', 3), ('una', 3), ('hacer', 2), ('hijo', 2), ('hecho', 2), ('tía', 2), ('sin', 1), ('del', 1), ('siempre', 1), ('es', 1), ('uno', 1), ('señora', 1), ('mi', 1)]
+--------------------
+
+
+

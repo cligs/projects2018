@@ -1,0 +1,6 @@
+frozendict
+jupyter
+numpy
+scipy
+pandas
+matplotlib

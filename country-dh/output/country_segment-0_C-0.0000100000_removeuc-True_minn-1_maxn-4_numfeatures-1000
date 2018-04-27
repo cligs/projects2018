@@ -1,0 +1,98 @@
+Using segment size 0
+unter({'Mexico': 32, 'Argentina': 26, 'Spain': 24, 'Cuba': 18})
+Creating Vectorizers...
+...done!
+Vectorizing...
+...done!
+             precision    recall  f1-score   support
+
+          0      0.000     0.000     0.000        24
+          1      0.000     0.000     0.000        18
+          2      0.320     1.000     0.485        32
+          3      0.000     0.000     0.000        26
+
+avg / total      0.102     0.320     0.155       100
+
+[[ 0  0 24  0]
+ [ 0  0 18  0]
+ [ 0  0 32  0]
+ [ 0  0 26  0]]
+[ 0.33333333  0.33333333  0.27272727  0.27272727  0.3         0.3
+  0.33333333  0.33333333  0.375       0.375     ]
+381.89994955062866
+Top Features for country 0, Spain in the folds:
+0: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'de los', 'en la', 'de su'], ['en casa de doña', 'lo malo es que', 'de la barraca', 'delante de los ojos', 'no había que pensar', 'la gente de la', 'ta ta ta ta', 'de diciembre de 1895', 'los ocho mil reales', 'de la huerta']]
+1: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'de los', 'en la', 'de su'], ['puerta de la barraca', 'de esta suerte', 'lo malo es que', 'en la mente de', 'por culpa de', 'de la barraca', 'ta ta ta ta', 'de diciembre de 1895', 'los ocho mil reales', 'de la huerta']]
+2: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de los', 'de su'], ['de esta suerte', 'en la cuenta de', 'debe de ser', 'por culpa de', 'puerta de la barraca', 'no había que pensar', 'la cuenta de que', 'lo malo es que', 'de la barraca', 'de la huerta']]
+3: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'de los', 'en la', 'de su'], ['en la cuenta de', 'no había que pensar', 'con la fuerza de', 'puerta de la barraca', 'la gente de la', 'de la barraca', 'ta ta ta ta', 'de diciembre de 1895', 'los ocho mil reales', 'de la huerta']]
+4: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'de su', 'en la', 'de los'], ['no había que pensar', 'por culpa de', 'en casa de doña', 'la cuenta de que', 'en la cuenta de', 'lo malo es que', 'de esta suerte', 'ta ta ta ta', 'de diciembre de 1895', 'los ocho mil reales']]
+5: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'de su', 'de los', 'en la'], ['delante de los ojos', 'con la fuerza de', 'por culpa de', 'de la barraca', 'no había que pensar', 'ta ta ta ta', 'la gente de la', 'de diciembre de 1895', 'los ocho mil reales', 'de la huerta']]
+6: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'de los', 'en la', 'de su'], ['por culpa de', 'en la cuenta de', 'lo malo es que', 'no había que pensar', 'de la barraca', 'ta ta ta ta', 'se me figura que', 'de diciembre de 1895', 'los ocho mil reales', 'de la huerta']]
+7: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'de los', 'de su', 'en la'], ['con la fuerza de', 'la cuenta de que', 'delante de los ojos', 'no había que pensar', 'lo malo es que', 'de la barraca', 'los ocho mil reales', 'ta ta ta ta', 'de diciembre de 1895', 'de la huerta']]
+8: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de los', 'de su'], ['de la barraca', 'en la cuenta de', 'de esta suerte', 'con la fuerza de', 'no había que pensar', 'ta ta ta ta', 'la gente de la', 'de diciembre de 1895', 'los ocho mil reales', 'de la huerta']]
+9: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'de los', 'en la', 'de su'], ['delante de los ojos', 'en casa de doña', 'la cuenta de que', 'la gente de la', 'en la cuenta de', 'ta ta ta ta', 'de la barraca', 'de diciembre de 1895', 'de la huerta', 'los ocho mil reales']]
+Contra:
+[('de la', 10), ('en', 10), ('en el', 10), ('en la', 10), ('que', 10), ('la', 10), ('de', 10), ('de los', 10), ('de su', 10), ('el', 10)]
+Pro:
+[('ta ta ta ta', 9), ('de diciembre de 1895', 9), ('de la huerta', 9), ('los ocho mil reales', 9), ('de la barraca', 9), ('no había que pensar', 8), ('lo malo es que', 6), ('en la cuenta de', 6), ('la gente de la', 5), ('por culpa de', 5), ('delante de los ojos', 4), ('con la fuerza de', 4), ('de esta suerte', 4), ('la cuenta de que', 4), ('en casa de doña', 3), ('puerta de la barraca', 3), ('en la mente de', 1), ('debe de ser', 1), ('se me figura que', 1)]
+--------------------
+
+
+
+Top Features for country 1, Cuba in the folds:
+0: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de los', 'lo que'], ['la cabeza sobre su', 'en la sombra del', 'en aquel instante el', 'aunque me esté mal', 'casa de la condesa', 'en la finca', 'la condesa', 'de la finca', 'la casa de vivienda', 'de la condesa']]
+1: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de los', 'lo que'], ['de la esclavitud', 'la finca', 'casa de las beatas', 'aunque me esté mal', 'casa de la condesa', 'la condesa', 'en la finca', 'de la condesa', 'la casa de vivienda', 'de la finca']]
+2: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de los', 'de su'], ['en aquel instante el', 'casa de las beatas', 'su merced', 'aunque me esté mal', 'casa de la condesa', 'en la finca', 'la condesa', 'la casa de vivienda', 'de la finca', 'de la condesa']]
+3: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de los', 'de su'], ['la finca', 'en la sombra del', 'casa de las beatas', 'aunque me esté mal', 'casa de la condesa', 'la condesa', 'en la finca', 'de la finca', 'de la condesa', 'la casa de vivienda']]
+4: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de los', 'lo que'], ['el caso que el', 'en la sombra del', 'en aquel instante el', 'casa de las beatas', 'casa de la condesa', 'la condesa', 'en la finca', 'de la finca', 'la casa de vivienda', 'de la condesa']]
+5: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de los', 'de su'], ['de la esclavitud', 'en aquel instante el', 'casa de las beatas', 'aunque me esté mal', 'casa de la condesa', 'en la finca', 'la condesa', 'de la finca', 'la casa de vivienda', 'de la condesa']]
+6: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de los', 'lo que'], ['postigo de la ventana', 'su merced', 'en la sombra del', 'de la esclavitud', 'casa de las beatas', 'casa de la condesa', 'la condesa', 'de la finca', 'la casa de vivienda', 'de la condesa']]
+7: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de los', 'de su'], ['casa de las beatas', 'su merced', 'casa de la condesa', 'en aquel instante el', 'en la finca', 'la condesa', 'aunque me esté mal', 'la casa de vivienda', 'de la finca', 'de la condesa']]
+8: [['de', 'de la', 'que', 'la', 'el', 'en el', 'en', 'en la', 'de los', 'de su'], ['casa de las beatas', 'aunque me esté mal', 'de la esclavitud', 'casa de la condesa', 'su merced', 'la condesa', 'en la finca', 'de la finca', 'de la condesa', 'la casa de vivienda']]
+9: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de los', 'de su'], ['en la sala con', 'de la doncella', 'en aquel instante el', 'la finca', 'de la esclavitud', 'casa de las beatas', 'aunque me esté mal', 'en la finca', 'de la finca', 'la casa de vivienda']]
+Contra:
+[('de la', 10), ('en', 10), ('en el', 10), ('en la', 10), ('que', 10), ('la', 10), ('de', 10), ('de los', 10), ('el', 10), ('de su', 6), ('lo que', 4)]
+Pro:
+[('la casa de vivienda', 10), ('de la finca', 10), ('en la finca', 9), ('la condesa', 9), ('casa de la condesa', 9), ('casa de las beatas', 9), ('de la condesa', 9), ('aunque me esté mal', 8), ('en aquel instante el', 6), ('de la esclavitud', 5), ('en la sombra del', 4), ('su merced', 4), ('la finca', 3), ('en la sala con', 1), ('la cabeza sobre su', 1), ('postigo de la ventana', 1), ('de la doncella', 1), ('el caso que el', 1)]
+--------------------
+
+
+
+Top Features for country 2, Mexico in the folds:
+0: [['de', 'de la', 'la', 'que', 'el', 'de su', 'en', 'en el', 'en la', 'de los'], ['después de lo cual', 'en dos por tres', 'así es que', 'cuatro de la mañana', 'ministro de la guerra', 'de manera que', 'de la hacienda', 'al cabo de un', 'la casa de don', 'en la casa de']]
+1: [['de', 'de la', 'la', 'que', 'el', 'de su', 'en', 'en el', 'en la', 'de los'], ['en dos por tres', 'en la casa del', 'de manera que', 'así es que', 'de la casa de', 'al cabo de un', 'de la hacienda', 'la casa de don', 'la casa de', 'en la casa de']]
+2: [['de', 'de la', 'la', 'que', 'el', 'de su', 'en', 'en el', 'en la', 'de los'], ['las cuatro de la', 'cuatro de la mañana', 'al cabo de un', 'así es que', 'de manera que', 'de la hacienda', 'de la casa de', 'la casa de don', 'la casa de', 'en la casa de']]
+3: [['de', 'de la', 'la', 'que', 'el', 'en', 'de su', 'en el', 'en la', 'de los'], ['en lo de adelante', 'cuatro de la mañana', 'en la casa del', 'ministro de la guerra', 'de la hacienda', 'de la casa de', 'de manera que', 'la casa de', 'la casa de don', 'en la casa de']]
+4: [['de', 'de la', 'la', 'que', 'el', 'de su', 'en', 'en el', 'en la', 'de los'], ['las ocho de la', 'cuatro de la mañana', 'ministro de la guerra', 'al cabo de un', 'de la casa de', 'de la hacienda', 'de manera que', 'la casa de', 'la casa de don', 'en la casa de']]
+5: [['de', 'de la', 'la', 'que', 'el', 'de su', 'en', 'en el', 'en la', 'de los'], ['en dos por tres', 'cuatro de la mañana', 'así es que', 'ministro de la guerra', 'de la hacienda', 'al cabo de un', 'de manera que', 'la casa de', 'la casa de don', 'en la casa de']]
+6: [['de', 'de la', 'la', 'que', 'el', 'de su', 'en', 'en el', 'en la', 'de los'], ['así es que', 'cuatro de la mañana', 'ministro de la guerra', 'al cabo de un', 'de la hacienda', 'de manera que', 'de la casa de', 'la casa de', 'la casa de don', 'en la casa de']]
+7: [['de', 'de la', 'la', 'que', 'el', 'de su', 'en', 'en el', 'en la', 'de los'], ['al cabo de un', 'cuatro de la mañana', 'así es que', 'ministro de la guerra', 'de manera que', 'de la hacienda', 'de la casa de', 'la casa de', 'la casa de don', 'en la casa de']]
+8: [['de', 'de la', 'la', 'que', 'el', 'de su', 'en', 'en el', 'en la', 'de los'], ['las cuatro de la', 'en lo de adelante', 'cuatro de la mañana', 'ministro de la guerra', 'de la casa de', 'de manera que', 'al cabo de un', 'la casa de don', 'la casa de', 'en la casa de']]
+9: [['de', 'de la', 'la', 'que', 'el', 'de su', 'en', 'en el', 'en la', 'de los'], ['cuatro de la mañana', 'en el momento en', 'ministro de la guerra', 'al cabo de un', 'de la hacienda', 'de la casa de', 'de manera que', 'la casa de don', 'la casa de', 'en la casa de']]
+Contra:
+[('de la', 10), ('en', 10), ('en el', 10), ('en la', 10), ('que', 10), ('la', 10), ('de', 10), ('de los', 10), ('de su', 10), ('el', 10)]
+Pro:
+[('la casa de don', 10), ('de manera que', 10), ('en la casa de', 10), ('de la hacienda', 9), ('cuatro de la mañana', 9), ('la casa de', 9), ('al cabo de un', 9), ('de la casa de', 8), ('ministro de la guerra', 8), ('así es que', 6), ('en dos por tres', 3), ('en lo de adelante', 2), ('en la casa del', 2), ('las cuatro de la', 2), ('en el momento en', 1), ('las ocho de la', 1), ('después de lo cual', 1)]
+--------------------
+
+
+
+Top Features for country 3, Argentina in the folds:
+0: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de su', 'que se'], ['la acción de la', 'en ese momento', 'en el toldo de', 'la puerta del rancho', 'la partida de plaza', 'se puso de pie', 'los indios', 'el hecho es que', 'de los indios', 'la puerta de calle']]
+1: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de su', 'que se'], ['en el toldo de', 'la manera de los', 'el dueño de casa', 'la puerta del rancho', 'en ese momento', 'los indios', 'la partida de plaza', 'de los indios', 'la puerta de calle', 'el hecho es que']]
+2: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de su', 'que se'], ['de los españoles', 'en ese momento', 'el dueño de casa', 'la puerta del rancho', 'la partida de plaza', 'los indios', 'se puso de pie', 'la puerta de calle', 'de los indios', 'el hecho es que']]
+3: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de su', 'de los'], ['de los españoles', 'en el toldo de', 'la puerta del rancho', 'el dueño de casa', 'los indios', 'la partida de plaza', 'se puso de pie', 'de los indios', 'la puerta de calle', 'el hecho es que']]
+4: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de su', 'que se'], ['de los españoles', 'el dueño de casa', 'los indios', 'la acción de la', 'en ese momento', 'de los indios', 'la puerta del rancho', 'la partida de plaza', 'el hecho es que', 'la puerta de calle']]
+5: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de su', 'que se'], ['la manera de los', 'en el toldo de', 'se puso de pie', 'la puerta del rancho', 'el dueño de casa', 'en ese momento', 'los indios', 'de los indios', 'el hecho es que', 'la puerta de calle']]
+6: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de su', 'que se'], ['en ese momento', 'en el toldo de', 'se puso de pie', 'el dueño de casa', 'la puerta del rancho', 'los indios', 'la partida de plaza', 'de los indios', 'la puerta de calle', 'el hecho es que']]
+7: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'que se', 'de su'], ['de mi hijo', 'el dueño de casa', 'en el toldo de', 'en ese momento', 'se puso de pie', 'la partida de plaza', 'los indios', 'de los indios', 'la puerta de calle', 'el hecho es que']]
+8: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de su', 'de los'], ['la manera de los', 'la acción de la', 'en el toldo de', 'en ese momento', 'el dueño de casa', 'el hecho es que', 'la puerta del rancho', 'la partida de plaza', 'se puso de pie', 'la puerta de calle']]
+9: [['de', 'de la', 'que', 'la', 'el', 'en', 'en el', 'en la', 'de su', 'que se'], ['en ese momento', 'el dueño de casa', 'en el toldo de', 'la puerta del rancho', 'se puso de pie', 'los indios', 'la partida de plaza', 'de los indios', 'la puerta de calle', 'el hecho es que']]
+Contra:
+[('de la', 10), ('en', 10), ('en el', 10), ('en la', 10), ('que', 10), ('la', 10), ('de', 10), ('de su', 10), ('el', 10), ('que se', 8), ('de los', 2)]
+Pro:
+[('el hecho es que', 10), ('la puerta de calle', 10), ('de los indios', 9), ('los indios', 9), ('el dueño de casa', 9), ('la puerta del rancho', 9), ('en ese momento', 9), ('la partida de plaza', 9), ('en el toldo de', 8), ('se puso de pie', 8), ('la manera de los', 3), ('de los españoles', 3), ('la acción de la', 3), ('de mi hijo', 1)]
+--------------------
+
+
+

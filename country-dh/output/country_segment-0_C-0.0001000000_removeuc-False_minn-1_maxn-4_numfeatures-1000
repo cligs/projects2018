@@ -1,0 +1,98 @@
+Collecting data...
+Counter({'Mexico': 32, 'Argentina': 26, 'Spain': 24, 'Cuba': 18})
+Creating Vectorizers...
+...done!
+Vectorizing...
+...done!
+             precision    recall  f1-score   support
+
+          0      0.000     0.000     0.000        24
+          1      0.000     0.000     0.000        18
+          2      0.320     1.000     0.485        32
+          3      0.000     0.000     0.000        26
+
+avg / total      0.102     0.320     0.155       100
+
+[[ 0  0 24  0]
+ [ 0  0 18  0]
+ [ 0  0 32  0]
+ [ 0  0 26  0]]
+[ 0.33333333  0.33333333  0.27272727  0.27272727  0.3         0.3
+  0.33333333  0.33333333  0.375       0.375     ]
+378.3608591556549
+Top Features for country 0, Spain in the folds:
+0: [['de', 'de la', 'que', 'la', 'el'], ['que el padre ambrosio', 'de las tres rosas', 'de la huerta', 'el padre ambrosio', 'maría de la luz']]
+1: [['de', 'de la', 'que', 'la', 'el'], ['que el padre ambrosio', 'de las tres rosas', 'de la huerta', 'el padre ambrosio', 'maría de la luz']]
+2: [['de', 'de la', 'que', 'la', 'el'], ['la señorita de reluz', 'que el padre ambrosio', 'de las tres rosas', 'de la huerta', 'el padre ambrosio']]
+3: [['de', 'de la', 'que', 'la', 'el'], ['que el padre ambrosio', 'de la huerta', 'de las tres rosas', 'el padre ambrosio', 'maría de la luz']]
+4: [['de', 'de la', 'que', 'la', 'el'], ['la señorita de reluz', 'que el padre ambrosio', 'de las tres rosas', 'el padre ambrosio', 'maría de la luz']]
+5: [['de', 'de la', 'que', 'la', 'el'], ['que el padre ambrosio', 'de las tres rosas', 'de la huerta', 'el padre ambrosio', 'maría de la luz']]
+6: [['de', 'de la', 'que', 'la', 'el'], ['de doña inés', 'la señorita de reluz', 'de las tres rosas', 'de la huerta', 'maría de la luz']]
+7: [['de', 'de la', 'que', 'la', 'el'], ['de doña inés', 'la señorita de reluz', 'que el padre ambrosio', 'el padre ambrosio', 'maría de la luz']]
+8: [['de', 'de la', 'que', 'la', 'el'], ['que el padre ambrosio', 'de las tres rosas', 'de la huerta', 'el padre ambrosio', 'maría de la luz']]
+9: [['de', 'de la', 'que', 'la', 'el'], ['de la huerta', 'que el padre ambrosio', 'de las tres rosas', 'el padre ambrosio', 'maría de la luz']]
+Contra:
+[('el', 10), ('que', 10), ('de', 10), ('la', 10), ('de la', 10)]
+Pro:
+[('maría de la luz', 9), ('de las tres rosas', 9), ('el padre ambrosio', 9), ('que el padre ambrosio', 9), ('de la huerta', 8), ('la señorita de reluz', 4), ('de doña inés', 2)]
+--------------------
+
+
+
+Top Features for country 1, Cuba in the folds:
+0: [['de', 'de la', 'que', 'la', 'el'], ['nudoso del tronco', 'en la habana', 'el señor nudoso del', 'de la habana', 'señor nudoso del tronco']]
+1: [['de', 'de la', 'que', 'la', 'el'], ['nudoso del tronco', 'el señor nudoso del', 'en la habana', 'de la habana', 'señor nudoso del tronco']]
+2: [['de', 'de la', 'que', 'la', 'el'], ['de la finca', 'la habana', 'de la condesa', 'en la habana', 'de la habana']]
+3: [['de', 'de la', 'que', 'la', 'el'], ['nudoso del tronco', 'el señor nudoso del', 'en la habana', 'de la habana', 'señor nudoso del tronco']]
+4: [['de', 'de la', 'que', 'la', 'el'], ['en la habana', 'nudoso del tronco', 'el señor nudoso del', 'de la habana', 'señor nudoso del tronco']]
+5: [['de', 'de la', 'que', 'la', 'el'], ['de la condesa', 'nudoso del tronco', 'el señor nudoso del', 'de la habana', 'señor nudoso del tronco']]
+6: [['de', 'de la', 'que', 'la', 'el'], ['el señor gonzaga', 'nudoso del tronco', 'el señor nudoso del', 'de la habana', 'señor nudoso del tronco']]
+7: [['de', 'de la', 'que', 'la', 'el'], ['de la habana', 'nudoso del tronco', 'en la habana', 'el señor nudoso del', 'señor nudoso del tronco']]
+8: [['de', 'de la', 'que', 'la', 'el'], ['nudoso del tronco', 'en la habana', 'el señor nudoso del', 'de la habana', 'señor nudoso del tronco']]
+9: [['de', 'de la', 'que', 'la', 'el'], ['nudoso del tronco', 'el señor nudoso del', 'en la habana', 'de la habana', 'señor nudoso del tronco']]
+Contra:
+[('el', 10), ('que', 10), ('de', 10), ('la', 10), ('de la', 10)]
+Pro:
+[('de la habana', 10), ('señor nudoso del tronco', 9), ('el señor nudoso del', 9), ('nudoso del tronco', 9), ('en la habana', 8), ('de la condesa', 2), ('la habana', 1), ('el señor gonzaga', 1), ('de la finca', 1)]
+--------------------
+
+
+
+Top Features for country 2, Mexico in the folds:
+0: [['de', 'de la', 'la', 'que', 'el'], ['de manera que', 'don facundo', 'al cabo de un', 'ministro de la guerra', 'en la casa de']]
+1: [['de', 'de la', 'la', 'que', 'el'], ['la casa de don', 'don facundo', 'don pedro de mejía', 'la casa de', 'en la casa de']]
+2: [['de', 'de la', 'la', 'que', 'el'], ['así es que', 'don pedro de mejía', 'la casa de don', 'la casa de', 'en la casa de']]
+3: [['de', 'de la', 'la', 'que', 'el'], ['ministro de la guerra', 'don pedro de mejía', 'la casa de', 'la casa de don', 'en la casa de']]
+4: [['de', 'de la', 'la', 'que', 'el'], ['ministro de la guerra', 'don pedro de mejía', 'la casa de', 'la casa de don', 'en la casa de']]
+5: [['de', 'de la', 'la', 'que', 'el'], ['la casa de', 'de manera que', 'don pedro de mejía', 'la casa de don', 'en la casa de']]
+6: [['de', 'de la', 'la', 'que', 'el'], ['de manera que', 'don pedro de mejía', 'la casa de', 'la casa de don', 'en la casa de']]
+7: [['de', 'de la', 'la', 'que', 'el'], ['ministro de la guerra', 'don pedro de mejía', 'la casa de', 'la casa de don', 'en la casa de']]
+8: [['de', 'de la', 'la', 'que', 'el'], ['ministro de la guerra', 'don pedro de mejía', 'la casa de don', 'la casa de', 'en la casa de']]
+9: [['de', 'de la', 'la', 'que', 'el'], ['de manera que', 'don pedro de mejía', 'la casa de', 'la casa de don', 'en la casa de']]
+Contra:
+[('el', 10), ('que', 10), ('de', 10), ('la', 10), ('de la', 10)]
+Pro:
+[('en la casa de', 10), ('la casa de', 9), ('la casa de don', 9), ('don pedro de mejía', 9), ('ministro de la guerra', 5), ('de manera que', 4), ('don facundo', 2), ('al cabo de un', 1), ('así es que', 1)]
+--------------------
+
+
+
+Top Features for country 3, Argentina in the folds:
+0: [['de', 'de la', 'que', 'la', 'el'], ['la puerta de calle', 'juez de paz', 'el juez de paz', 'en buenos aires', 'de buenos aires']]
+1: [['de', 'de la', 'que', 'la', 'el'], ['juez de paz', 'buenos aires', 'el juez de paz', 'en buenos aires', 'de buenos aires']]
+2: [['de', 'de la', 'que', 'la', 'el'], ['juez de paz', 'buenos aires', 'el juez de paz', 'en buenos aires', 'de buenos aires']]
+3: [['de', 'de la', 'que', 'la', 'el'], ['buenos aires', 'el hecho es que', 'el juez de paz', 'en buenos aires', 'de buenos aires']]
+4: [['de', 'de la', 'que', 'la', 'el'], ['el hecho es que', 'buenos aires', 'la puerta de calle', 'en buenos aires', 'de buenos aires']]
+5: [['de', 'de la', 'que', 'la', 'el'], ['la puerta de calle', 'buenos aires', 'el juez de paz', 'en buenos aires', 'de buenos aires']]
+6: [['de', 'de la', 'que', 'la', 'el'], ['buenos aires', 'el hecho es que', 'el juez de paz', 'en buenos aires', 'de buenos aires']]
+7: [['de', 'de la', 'que', 'la', 'el'], ['el hecho es que', 'buenos aires', 'el juez de paz', 'en buenos aires', 'de buenos aires']]
+8: [['de', 'de la', 'que', 'la', 'el'], ['juez de paz', 'buenos aires', 'el juez de paz', 'en buenos aires', 'de buenos aires']]
+9: [['de', 'de la', 'que', 'la', 'el'], ['el hecho es que', 'buenos aires', 'el juez de paz', 'en buenos aires', 'de buenos aires']]
+Contra:
+[('el', 10), ('que', 10), ('de', 10), ('la', 10), ('de la', 10)]
+Pro:
+[('de buenos aires', 10), ('en buenos aires', 10), ('buenos aires', 9), ('el juez de paz', 9), ('el hecho es que', 5), ('juez de paz', 4), ('la puerta de calle', 3)]
+--------------------
+
+
+

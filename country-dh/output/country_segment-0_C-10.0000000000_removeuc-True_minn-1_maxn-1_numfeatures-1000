@@ -1,0 +1,98 @@
+Using segment size 0
+unter({'Mexico': 32, 'Argentina': 26, 'Spain': 24, 'Cuba': 18})
+Creating Vectorizers...
+...done!
+Vectorizing...
+...done!
+             precision    recall  f1-score   support
+
+          0      0.600     0.750     0.667        24
+          1      0.556     0.278     0.370        18
+          2      0.657     0.719     0.687        32
+          3      0.500     0.500     0.500        26
+
+avg / total      0.584     0.590     0.576       100
+
+[[18  0  1  5]
+ [ 4  5  4  5]
+ [ 5  1 23  3]
+ [ 3  3  7 13]]
+[ 0.58333333  0.66666667  0.63636364  0.72727273  0.6         0.7
+  0.44444444  0.55555556  0.75        0.5       ]
+71.02519488334656
+Top Features for country 0, Spain in the folds:
+0: [['una', 'un', 'sus', 'joven', 'los', 'su', 'ese', 'es', 'dijo', 'el'], ['de', 'pero', 'más', 'ella', 'con', 'las', 'si', 'la', 'por', 'le']]
+1: [['una', 'un', 'los', 'que', 'joven', 'es', 'ese', 'dijo', 'sus', 'su'], ['algo', 'yo', 'mujer', 'las', 'de', 'le', 'era', 'ella', 'si', 'él']]
+2: [['una', 'los', 'sus', 'joven', 'su', 'que', 'ese', 'dijo', 'un', 'don'], ['era', 'pero', 'por', 'del', 'si', 'más', 'ella', 'mujer', 'las', 'le']]
+3: [['una', 'un', 'don', 'que', 'joven', 'sus', 'los', 'ese', 'es', 'dijo'], ['mí', 'con', 'él', 'yo', 'más', 'la', 'de', 'las', 'si', 'le']]
+4: [['una', 'un', 'su', 'sus', 'joven', 'que', 'ese', 'los', 'dijo', 'es'], ['más', 'yo', 'de', 'mujer', 'las', 'él', 'con', 'si', 'ella', 'le']]
+5: [['una', 'su', 'un', 'que', 'sus', 'ese', 'joven', 'los', 'te', 'dijo'], ['era', 'de', 'la', 'mujer', 'yo', 'las', 'con', 'ella', 'si', 'le']]
+6: [['una', 'joven', 'los', 'que', 'sus', 'un', 'ese', 'dijo', 'había', 'su'], ['mí', 'la', 'él', 'era', 'mujer', 'con', 'ella', 'las', 'si', 'le']]
+7: [['una', 'un', 'joven', 'los', 'su', 'que', 'ese', 'sus', 'dijo', 'había'], ['más', 'las', 'de', 'la', 'con', 'ella', 'mujer', 'si', 'por', 'le']]
+8: [['una', 'un', 'ese', 'su', 'sus', 'joven', 'es', 'que', 'los', 'mi'], ['era', 'las', 'más', 'de', 'él', 'si', 'ella', 'le', 'por', 'con']]
+9: [['una', 'un', 'que', 'joven', 'los', 'sus', 'ese', 'dijo', 'es', 'esa'], ['era', 'la', 'por', 'las', 'mujer', 'él', 'si', 'con', 'ella', 'le']]
+Contra:
+[('joven', 10), ('sus', 10), ('una', 10), ('un', 10), ('ese', 10), ('los', 10), ('que', 9), ('dijo', 9), ('su', 8), ('es', 6), ('don', 2), ('había', 2), ('te', 1), ('el', 1), ('esa', 1), ('mi', 1)]
+Pro:
+[('si', 10), ('le', 10), ('las', 10), ('ella', 9), ('con', 8), ('mujer', 7), ('de', 7), ('la', 6), ('más', 6), ('era', 6), ('él', 6), ('por', 5), ('yo', 4), ('mí', 2), ('pero', 2), ('del', 1), ('algo', 1)]
+--------------------
+
+
+
+Top Features for country 1, Cuba in the folds:
+0: [['lo', 'de', 'qué', 'me', 'usted', 'después', 'él', 'he', 'es', 'el'], ['aquel', 'negro', 'sus', 'más', 'negros', 'se', 'aquella', 'en', 'le', 'su']]
+1: [['lo', 'de', 'pero', 'después', 'me', 'el', 'qué', 'él', 'he', 'los'], ['tan', 'la', 'negro', 'aquella', 'negros', 'se', 'más', 'en', 'le', 'su']]
+2: [['el', 'pero', 'lo', 'de', 'qué', 'me', 'después', 'he', 'del', 'hasta'], ['ella', 'sobre', 'tan', 'negro', 'sus', 'aquella', 'negros', 'en', 'le', 'su']]
+3: [['de', 'me', 'el', 'lo', 'pero', 'qué', 'dijo', 'él', 'después', 'con'], ['más', 'no', 'negro', 'un', 'negros', 'se', 'aquella', 'le', 'en', 'su']]
+4: [['me', 'los', 'de', 'lo', 'mi', 'pero', 'don', 'qué', 'dijo', 'yo'], ['joven', 'que', 'sus', 'más', 'aquella', 'la', 'no', 'le', 'en', 'su']]
+5: [['de', 'como', 'lo', 'qué', 'pero', 'me', 'dijo', 'muy', 'he', 'él'], ['perros', 'en', 'sus', 'no', 'aquella', 'negros', 'al', 'más', 'le', 'su']]
+6: [['el', 'de', 'lo', 'pero', 'me', 'he', 'qué', 'él', 'después', 'era'], ['ella', 'más', 'negro', 'joven', 'no', 'aquella', 'sus', 'en', 'le', 'su']]
+7: [['de', 'me', 'lo', 'después', 'pero', 'el', 'qué', 'he', 'con', 'dijo'], ['que', 'negro', 'sus', 'aquella', 'negros', 'sobre', 'un', 'en', 'le', 'su']]
+8: [['de', 'lo', 'qué', 'me', 'pero', 'después', 'el', 'he', 'muy', 'él'], ['esclavo', 'negro', 'aquella', 'perros', 'un', 'no', 'negros', 'le', 'en', 'su']]
+9: [['de', 'me', 'pero', 'lo', 'qué', 'dijo', 'después', 'él', 'el', 'del'], ['la', 'negros', 'joven', 'madre', 'se', 'en', 'sus', 'aquella', 'le', 'su']]
+Contra:
+[('me', 10), ('lo', 10), ('de', 10), ('qué', 10), ('pero', 9), ('el', 8), ('después', 8), ('he', 7), ('él', 7), ('dijo', 5), ('con', 2), ('muy', 2), ('del', 2), ('los', 2), ('yo', 1), ('como', 1), ('usted', 1), ('es', 1), ('mi', 1), ('era', 1), ('hasta', 1), ('don', 1)]
+Pro:
+[('su', 10), ('en', 10), ('aquella', 10), ('le', 10), ('negros', 8), ('sus', 7), ('negro', 7), ('más', 6), ('no', 5), ('se', 4), ('joven', 3), ('la', 3), ('un', 3), ('tan', 2), ('sobre', 2), ('que', 2), ('perros', 2), ('ella', 2), ('al', 1), ('madre', 1), ('aquel', 1), ('esclavo', 1)]
+--------------------
+
+
+
+Top Features for country 2, Mexico in the folds:
+0: [['le', 'su', 'si', 'como', 'la', 'sin', 'más', 'ella', 'del', 'sobre'], ['los', 'pero', 'joven', 'don', 'te', 'ya', 'muy', 'qué', 'se', 'usted']]
+1: [['más', 'su', 'como', 'le', 'si', 'sobre', 'ella', 'la', 'del', 'sin'], ['pero', 'muy', 'te', 'joven', 'os', 'se', 'qué', 'don', 'ya', 'usted']]
+2: [['su', 'si', 'como', 'más', 'sobre', 'le', 'la', 'del', 'ella', 'no'], ['joven', 'dijo', 'te', 'don', 'muy', 'pero', 'se', 'ya', 'usted', 'qué']]
+3: [['su', 'si', 'más', 'como', 'le', 'sobre', 'del', 'sin', 'ella', 'no'], ['te', 'joven', 'dijo', 'muy', 'ya', 'don', 'se', 'pero', 'qué', 'usted']]
+4: [['más', 'la', 'ella', 'como', 'no', 'su', 'si', 'sobre', 'del', 'él'], ['muy', 'joven', 'pero', 'dijo', 'ya', 'los', 'qué', 'usted', 'don', 'se']]
+5: [['su', 'le', 'del', 'más', 'sobre', 'ella', 'si', 'la', 'sin', 'al'], ['que', 'pero', 'don', 'ya', 'te', 'se', 'muy', 'joven', 'usted', 'qué']]
+6: [['su', 'sobre', 'le', 'más', 'del', 'como', 'si', 'ella', 'la', 'no'], ['una', 'te', 'pero', 'joven', 'muy', 'se', 'don', 'ya', 'usted', 'qué']]
+7: [['le', 'su', 'si', 'sin', 'más', 'ella', 'sobre', 'no', 'del', 'al'], ['los', 'dijo', 'joven', 'muy', 'don', 'se', 'pero', 'ya', 'usted', 'qué']]
+8: [['su', 'le', 'como', 'más', 'no', 'sobre', 'ella', 'si', 'la', 'por'], ['joven', 'te', 'dijo', 'pero', 'don', 'usted', 'muy', 'qué', 'se', 'ya']]
+9: [['como', 'le', 'su', 'la', 'si', 'sobre', 'sin', 'más', 'ella', 'él'], ['los', 'pero', 'te', 'dijo', 'muy', 'ya', 'usted', 'se', 'qué', 'don']]
+Contra:
+[('sobre', 10), ('si', 10), ('su', 10), ('más', 10), ('ella', 10), ('le', 9), ('como', 8), ('del', 8), ('la', 8), ('sin', 6), ('no', 6), ('al', 2), ('él', 2), ('por', 1)]
+Pro:
+[('pero', 10), ('muy', 10), ('se', 10), ('don', 10), ('ya', 10), ('qué', 10), ('usted', 10), ('joven', 9), ('te', 8), ('dijo', 6), ('los', 4), ('os', 1), ('una', 1), ('que', 1)]
+--------------------
+
+
+
+Top Features for country 3, Argentina in the folds:
+0: [['se', 'en', 'pero', 'las', 'le', 'muy', 'ya', 'usted', 'con', 'tan'], ['sobre', 'sin', 'como', 'ha', 'indios', 'me', 'un', 'el', 'es', 'lo']]
+1: [['se', 'tan', 'ya', 'con', 'en', 'muy', 'usted', 'las', 'le', 'don'], ['indios', 'me', 'ha', 'un', 'sobre', 'los', 'del', 'una', 'lo', 'es']]
+2: [['se', 'le', 'las', 'ya', 'usted', 'muy', 'tan', 'con', 'para', 'en'], ['del', 'sobre', 'indios', 'su', 'el', 'es', 'como', 'los', 'lo', 'mi']]
+3: [['se', 'usted', 'en', 'las', 'ya', 'muy', 'le', 'esto', 'tan', 'pero'], ['una', 'es', 'sobre', 'ha', 'como', 'me', 'el', 'un', 'del', 'lo']]
+4: [['se', 'en', 'le', 'muy', 'las', 'ya', 'tan', 'esto', 'usted', 'para'], ['es', 'ese', 'dijo', 'del', 'una', 'ha', 'me', 'como', 'lo', 'sobre']]
+5: [['se', 'en', 'muy', 'con', 'tan', 'para', 'esto', 'las', 'usted', 'le'], ['los', 'uno', 'indios', 'ha', 'me', 'sobre', 'como', 'es', 'del', 'lo']]
+6: [['se', 'las', 'le', 'muy', 'ya', 'tan', 'con', 'en', 'para', 'pero'], ['los', 'dijo', 'un', 'es', 'del', 'me', 'sobre', 'como', 'el', 'lo']]
+7: [['se', 'las', 'en', 'ya', 'muy', 'tan', 'le', 'esto', 'pero', 'usted'], ['ese', 'como', 'es', 'indios', 'ha', 'sobre', 'el', 'del', 'me', 'lo']]
+8: [['se', 'con', 'en', 'ya', 'tan', 'las', 'muy', 'para', 'don', 'esto'], ['una', 'del', 'ha', 'es', 'mi', 'un', 'sobre', 'como', 'me', 'lo']]
+9: [['se', 'las', 'en', 'le', 'con', 'don', 'muy', 'ya', 'tan', 'usted'], ['uno', 'del', 'indios', 'me', 'sobre', 'un', 'una', 'es', 'como', 'lo']]
+Contra:
+[('tan', 10), ('se', 10), ('muy', 10), ('las', 10), ('en', 10), ('le', 9), ('ya', 9), ('usted', 8), ('con', 7), ('esto', 5), ('para', 5), ('pero', 4), ('don', 3)]
+Pro:
+[('lo', 10), ('sobre', 10), ('es', 10), ('como', 9), ('me', 9), ('del', 9), ('ha', 7), ('indios', 6), ('un', 6), ('una', 5), ('el', 5), ('los', 4), ('uno', 2), ('dijo', 2), ('mi', 2), ('ese', 2), ('su', 1), ('sin', 1)]
+--------------------
+
+
+

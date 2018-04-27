@@ -1,0 +1,98 @@
+Collecting data...
+Counter({'Mexico': 32, 'Argentina': 26, 'Spain': 24, 'Cuba': 18})
+Creating Vectorizers...
+...done!
+Vectorizing...
+...done!
+             precision    recall  f1-score   support
+
+          0      0.815     0.917     0.863        24
+          1      0.833     0.278     0.417        18
+          2      0.630     0.906     0.744        32
+          3      0.905     0.731     0.809        26
+
+avg / total      0.783     0.750     0.730       100
+
+[[22  0  1  1]
+ [ 2  5 10  1]
+ [ 2  1 29  0]
+ [ 1  0  6 19]]
+[ 0.91666667  1.          0.72727273  0.72727273  0.6         0.7
+  0.66666667  0.55555556  0.75        0.75      ]
+384.5662441253662
+Top Features for country 0, Spain in the folds:
+0: [['que', 'en la casa de', 'que se', 'la casa de', 'uno de los'], ['en el alma de', 'el padre ambrosio', 'de la huerta', 'maría de la luz', 'de lo que']]
+1: [['que', 'la casa de', 'uno de los', 'en la casa de', 'que se'], ['en la calle', 'el padre ambrosio', 'de la huerta', 'maría de la luz', 'de lo que']]
+2: [['que', 'en la casa de', 'la casa de', 'uno de los', 'en medio de'], ['en el alma de', 'el padre ambrosio', 'de la huerta', 'en la calle', 'de lo que']]
+3: [['que', 'uno de los', 'en la casa de', 'la casa de', 'que se'], ['de la huerta', 'el padre ambrosio', 'en la calle', 'maría de la luz', 'de lo que']]
+4: [['que', 'en la casa de', 'uno de los', 'la casa de', 'que se'], ['en el alma de', 'el padre ambrosio', 'en la calle', 'maría de la luz', 'de lo que']]
+5: [['que', 'uno de los', 'en la casa de', 'la casa de', 'que se'], ['el padre ambrosio', 'de la huerta', 'en la calle', 'de lo que', 'maría de la luz']]
+6: [['que', 'en la casa de', 'uno de los', 'la casa de', 'que se'], ['de la huerta', 'se me figura que', 'en la calle', 'de lo que', 'maría de la luz']]
+7: [['que', 'en la casa de', 'en medio de', 'la casa de', 'uno de los'], ['la casa de los', 'el padre ambrosio', 'en la calle', 'maría de la luz', 'de lo que']]
+8: [['que', 'en la casa de', 'la casa de', 'uno de los', 'que se'], ['en el alma de', 'de la huerta', 'en la calle', 'maría de la luz', 'de lo que']]
+9: [['que', 'uno de los', 'en la casa de', 'la casa de', 'que se'], ['se me figura que', 'el padre ambrosio', 'de lo que', 'en la calle', 'maría de la luz']]
+Contra:
+[('uno de los', 10), ('en la casa de', 10), ('la casa de', 10), ('que', 10), ('que se', 8), ('en medio de', 2)]
+Pro:
+[('de lo que', 10), ('maría de la luz', 9), ('en la calle', 9), ('el padre ambrosio', 8), ('de la huerta', 7), ('en el alma de', 4), ('se me figura que', 2), ('la casa de los', 1)]
+--------------------
+
+
+
+Top Features for country 1, Cuba in the folds:
+0: [['de', 'de la', 'en medio de la', 'de cuando en cuando', 'en la puerta de'], ['en la habana', 'en que se', 'de su', 'señor nudoso del tronco', 'de la habana']]
+1: [['de', 'de los', 'de cuando en cuando', 'en medio de la', 'me'], ['de su madre', 'en que se', 'de su', 'señor nudoso del tronco', 'de la habana']]
+2: [['de', 'de la', 'de cuando en cuando', 'de los', 'en medio de la'], ['en la habana', 'de su', 'de su madre', 'en que se', 'de la habana']]
+3: [['de', 'de los', 'de mi', 'de la', 'de cuando en cuando'], ['en la habana', 'de su madre', 'en que se', 'señor nudoso del tronco', 'de la habana']]
+4: [['de', 'de los', 'de cuando en cuando', 'de la', 'me'], ['en su', 'en que se', 'de la habana', 'señor nudoso del tronco', 'de su']]
+5: [['de', 'de la', 'de los', 'de cuando en cuando', 'en medio de la'], ['en su', 'en que se', 'señor nudoso del tronco', 'de su', 'de la habana']]
+6: [['de', 'de la', 'de los', 'de cuando en cuando', 'en medio de la'], ['de su madre', 'en que se', 'de la habana', 'señor nudoso del tronco', 'de su']]
+7: [['de', 'de cuando en cuando', 'de la', 'de los', 'la casa de'], ['de la habana', 'en la habana', 'en que se', 'de su', 'señor nudoso del tronco']]
+8: [['de', 'de cuando en cuando', 'de la', 'en medio de la', 'de los'], ['de su madre', 'de su', 'en que se', 'señor nudoso del tronco', 'de la habana']]
+9: [['de', 'de cuando en cuando', 'en medio de la', 'de los', 'de la'], ['de su', 'en que se', 'de su madre', 'señor nudoso del tronco', 'de la habana']]
+Contra:
+[('de cuando en cuando', 10), ('de', 10), ('de los', 9), ('de la', 9), ('en medio de la', 7), ('me', 2), ('la casa de', 1), ('en la puerta de', 1), ('de mi', 1)]
+Pro:
+[('en que se', 10), ('de la habana', 10), ('señor nudoso del tronco', 9), ('de su', 9), ('de su madre', 6), ('en la habana', 4), ('en su', 2)]
+--------------------
+
+
+
+Top Features for country 2, Mexico in the folds:
+0: [['de su', 'de la', 'la', 'de la vida', 'de vez en cuando'], ['de manera que', 'al cabo de un', 'de la casa de', 'la casa de', 'en la casa de']]
+1: [['de su', 'de la', 'de la vida', 'la', 'de'], ['al cabo de un', 'así es que', 'de la casa de', 'en la casa de', 'la casa de']]
+2: [['de su', 'de la vida', 'de la', 'la', 'de'], ['la casa de don', 'así es que', 'de la casa de', 'en la casa de', 'la casa de']]
+3: [['de su', 'de la vida', 'de la', 'la', 'de'], ['la casa de don', 'de manera que', 'de la casa de', 'en la casa de', 'la casa de']]
+4: [['de su', 'la', 'de la', 'de la vida', 'de'], ['de manera que', 'la casa de don', 'de la casa de', 'en la casa de', 'la casa de']]
+5: [['de la', 'de su', 'la', 'de la vida', 'de'], ['de manera que', 'la casa de don', 'de la casa de', 'en la casa de', 'la casa de']]
+6: [['de su', 'de la', 'de la vida', 'la', 'de'], ['al cabo de un', 'la casa de don', 'de la casa de', 'en la casa de', 'la casa de']]
+7: [['de su', 'de la', 'de la vida', 'la', 'de buenos aires'], ['la casa de don', 'así es que', 'de la casa de', 'en la casa de', 'la casa de']]
+8: [['de su', 'de la vida', 'de la', 'la', 'de vez en cuando'], ['de manera que', 'al cabo de un', 'de la casa de', 'en la casa de', 'la casa de']]
+9: [['de su', 'la', 'de la', 'de la vida', 'de vez en cuando'], ['la casa de don', 'de manera que', 'de la casa de', 'en la casa de', 'la casa de']]
+Contra:
+[('la', 10), ('de su', 10), ('de la vida', 10), ('de la', 10), ('de', 6), ('de vez en cuando', 3), ('de buenos aires', 1)]
+Pro:
+[('en la casa de', 10), ('de la casa de', 10), ('la casa de', 10), ('la casa de don', 7), ('de manera que', 6), ('al cabo de un', 4), ('así es que', 3)]
+--------------------
+
+
+
+Top Features for country 3, Argentina in the folds:
+0: [['de la casa', 'la casa de', 'que se', 'que', 'en la casa de'], ['de vez en cuando', 'en medio de la', 'el juez de paz', 'en buenos aires', 'de buenos aires']]
+1: [['de la casa', 'la casa de', 'de su padre', 'de', 'más que'], ['el hecho es que', 'el juez de paz', 'uno de los', 'en buenos aires', 'de buenos aires']]
+2: [['la casa de', 'de la casa', 'en la casa de', 'de lo que', 'que'], ['de vez en cuando', 'uno de los', 'en medio de la', 'en buenos aires', 'de buenos aires']]
+3: [['la casa de', 'de la casa', 'de la', 'en la casa de', 'de lo que'], ['uno de los', 'el juez de paz', 'el hecho es que', 'en buenos aires', 'de buenos aires']]
+4: [['de la casa', 'la casa de', 'en la casa de', 'que', 'de lo que'], ['el hecho es que', 'uno de los', 'en medio de la', 'en buenos aires', 'de buenos aires']]
+5: [['la casa de', 'que se', 'que', 'en que se', 'de lo que'], ['uno de los', 'el hecho es que', 'en medio de la', 'en buenos aires', 'de buenos aires']]
+6: [['la casa de', 'de la casa', 'que se', 'que', 'en la casa de'], ['en medio de la', 'uno de los', 'el hecho es que', 'en buenos aires', 'de buenos aires']]
+7: [['de la casa', 'la casa de', 'que se', 'en la casa de', 'que'], ['en medio de la', 'el juez de paz', 'el hecho es que', 'en buenos aires', 'de buenos aires']]
+8: [['la casa de', 'de la casa', 'en la casa de', 'que se', 'en la casa'], ['buenos aires', 'de vez en cuando', 'el juez de paz', 'en buenos aires', 'de buenos aires']]
+9: [['de la casa', 'la casa de', 'en la casa de', 'que se', 'en la casa'], ['el juez de paz', 'de vez en cuando', 'el hecho es que', 'en buenos aires', 'de buenos aires']]
+Contra:
+[('la casa de', 10), ('de la casa', 9), ('en la casa de', 8), ('que se', 6), ('que', 6), ('de lo que', 4), ('en la casa', 2), ('de su padre', 1), ('más que', 1), ('en que se', 1), ('de', 1), ('de la', 1)]
+Pro:
+[('de buenos aires', 10), ('en buenos aires', 10), ('el hecho es que', 7), ('uno de los', 6), ('en medio de la', 6), ('el juez de paz', 6), ('de vez en cuando', 4), ('buenos aires', 1)]
+--------------------
+
+
+

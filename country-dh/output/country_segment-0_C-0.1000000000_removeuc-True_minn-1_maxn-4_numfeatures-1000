@@ -1,0 +1,98 @@
+Using segment size 0
+unter({'Mexico': 32, 'Argentina': 26, 'Spain': 24, 'Cuba': 18})
+Creating Vectorizers...
+...done!
+Vectorizing...
+...done!
+             precision    recall  f1-score   support
+
+          0      0.786     0.917     0.846        24
+          1      0.750     0.167     0.273        18
+          2      0.651     0.875     0.747        32
+          3      0.720     0.692     0.706        26
+
+avg / total      0.719     0.710     0.675       100
+
+[[22  0  0  2]
+ [ 2  3  8  5]
+ [ 3  1 28  0]
+ [ 1  0  7 18]]
+[ 0.75        0.83333333  0.72727273  0.72727273  0.6         0.7
+  0.66666667  0.55555556  0.75        0.75      ]
+398.7423286437988
+Top Features for country 0, Spain in the folds:
+0: [['que', 'en la casa de', 'que se', 'la casa de', 'uno de los', 'el momento en que', 'en medio de', 'en que se', 'de la mañana', 'qué es lo que'], ['por lo mismo que', 'lo que yo', 'la calle de', 'de la', 'la calle de la', 'en vez de', 'de la huerta', 'la casa de los', 'en el alma de', 'de lo que']]
+1: [['que', 'la casa de', 'uno de los', 'en la casa de', 'que se', 'en medio de', 'de la casa de', 'de la mañana', 'en que se', 'todo el mundo'], ['de tarde en tarde', 'se me figura que', 'de su mujer', 'en casa de', 'lo que él', 'lo que yo', 'en el alma de', 'en la calle', 'de la huerta', 'de lo que']]
+2: [['que', 'en la casa de', 'la casa de', 'uno de los', 'en medio de', 'que se', 'de la casa de', 'de la mañana', 'al lado de', 'qué es lo que'], ['lo que yo', 'de su mujer', 'la señora de', 'la casa de los', 'por lo mismo que', 'se me figura que', 'en el alma de', 'de la huerta', 'en la calle', 'de lo que']]
+3: [['que', 'uno de los', 'en la casa de', 'la casa de', 'que se', 'de la mañana', 'de la casa de', 'de la joven', 'en que se', 'en medio de'], ['lo que yo', 'en casa de', 'de su mujer', 'la casa de los', 'la gente de la', 'se me figura que', 'por lo mismo que', 'de la huerta', 'en la calle', 'de lo que']]
+4: [['que', 'en la casa de', 'uno de los', 'la casa de', 'que se', 'en medio de', 'de la mañana', 'de la casa de', 'en que se', 'qué es lo que'], ['lo que él', 'la calle de la', 'se me figura que', 'por lo mismo que', 'la calle de', 'lo que yo', 'la casa de los', 'en el alma de', 'en la calle', 'de lo que']]
+5: [['que', 'uno de los', 'en la casa de', 'la casa de', 'que se', 'en medio de', 'de la joven', 'de la mañana', 'de la casa de', 'el momento en que'], ['en vez de', 'con los ojos', 'por lo mismo que', 'se me figura que', 'en casa de', 'la casa de los', 'de la huerta', 'en el alma de', 'en la calle', 'de lo que']]
+6: [['que', 'en la casa de', 'uno de los', 'la casa de', 'que se', 'en medio de', 'en que se', 'de la mañana', 'de la casa de', 'de la joven'], ['la calle de la', 'en el alma de', 'de tarde en tarde', 'la calle de', 'en casa de', 'de la huerta', 'la casa de los', 'se me figura que', 'en la calle', 'de lo que']]
+7: [['que', 'en la casa de', 'uno de los', 'la casa de', 'en medio de', 'que se', 'de la casa de', 'de la joven', 'de la mañana', 'qué es lo que'], ['en el suelo', 'de la', 'por lo mismo que', 'la calle de la', 'de tarde en tarde', 'se me figura que', 'de la huerta', 'la casa de los', 'en la calle', 'de lo que']]
+8: [['que', 'en la casa de', 'la casa de', 'uno de los', 'que se', 'de la mañana', 'de la casa de', 'en medio de', 'un', 'una de las'], ['la calle de la', 'por lo mismo que', 'en casa de', 'de tarde en tarde', 'lo que yo', 'la casa de los', 'de la huerta', 'en el alma de', 'en la calle', 'de lo que']]
+9: [['que', 'uno de los', 'en la casa de', 'la casa de', 'que se', 'en que se', 'en medio de', 'de la mañana', 'de la casa de', 'qué es lo que'], ['la gente de la', 'de su mujer', 'de tarde en tarde', 'la casa de los', 'de la huerta', 'la calle de la', 'se me figura que', 'en el alma de', 'de lo que', 'en la calle']]
+Contra:
+[('en medio de', 10), ('uno de los', 10), ('que se', 10), ('en la casa de', 10), ('la casa de', 10), ('que', 10), ('de la mañana', 10), ('de la casa de', 9), ('en que se', 6), ('qué es lo que', 5), ('de la joven', 4), ('el momento en que', 2), ('un', 1), ('una de las', 1), ('todo el mundo', 1), ('al lado de', 1)]
+Pro:
+[('de lo que', 10), ('de la huerta', 9), ('la casa de los', 9), ('en la calle', 9), ('en el alma de', 8), ('se me figura que', 8), ('por lo mismo que', 7), ('la calle de la', 6), ('lo que yo', 6), ('en casa de', 5), ('de tarde en tarde', 5), ('de su mujer', 4), ('la calle de', 3), ('en vez de', 2), ('la gente de la', 2), ('lo que él', 2), ('de la', 2), ('con los ojos', 1), ('la señora de', 1), ('en el suelo', 1)]
+--------------------
+
+
+
+Top Features for country 1, Cuba in the folds:
+0: [['de la', 'de', 'en medio de la', 'de cuando en cuando', 'en la puerta de', 'de los', 'de lo que', 'lo que', 'me', 'de mi'], ['no es más que', 'de la finca', 'la casa de vivienda', 'en la sala', 'de la condesa', 'su', 'en su', 'de su madre', 'en que se', 'de su']]
+1: [['de', 'de cuando en cuando', 'de los', 'en medio de la', 'de la', 'en la', 'de mi', 'me', 'en la puerta de', 'que me'], ['la casa de vivienda', 'en la sala', 'de la condesa', 'su', 'de la finca', 'puerta de la calle', 'no es más que', 'de su madre', 'en que se', 'de su']]
+2: [['de la', 'de', 'de cuando en cuando', 'de los', 'en medio de la', 'la casa de', 'en la', 'de mi', 'uno de los', 'en la puerta de'], ['su', 'en su', 'en la sala', 'de la finca', 'de la condesa', 'no es más que', 'puerta de la calle', 'de su', 'de su madre', 'en que se']]
+3: [['de', 'de los', 'de mi', 'de la', 'en medio de la', 'de cuando en cuando', 'en la', 'en la puerta de', 'me', 'que me'], ['no pudo menos de', 'en la sala', 'la casa de vivienda', 'en su', 'de la condesa', 'de la finca', 'puerta de la calle', 'de su', 'de su madre', 'en que se']]
+4: [['de', 'de los', 'de cuando en cuando', 'de la', 'de mi', 'me', 'en medio de la', 'lo que', 'los', 'de la casa de'], ['la casa de vivienda', 'de la finca', 'de la condesa', 'de su madre', 'no es más que', 'puerta de la calle', 'su', 'en su', 'en que se', 'de su']]
+5: [['de', 'de la', 'de los', 'en medio de la', 'de cuando en cuando', 'en la', 'de mi', 'la casa de', 'me', 'en la puerta de'], ['no es más que', 'de la finca', 'de su padre', 'la casa de vivienda', 'de la condesa', 'puerta de la calle', 'en su', 'su', 'en que se', 'de su']]
+6: [['de la', 'de', 'de los', 'de cuando en cuando', 'en medio de la', 'en la', 'la casa de', 'de la casa de', 'en la puerta de', 'el'], ['de su padre', 'no pudo menos de', 'de la condesa', 'en su', 'en la sala', 'puerta de la calle', 'su', 'de su madre', 'en que se', 'de su']]
+7: [['de cuando en cuando', 'de', 'de la', 'de los', 'la casa de', 'en medio de la', 'de la casa de', 'en la', 'en la puerta de', 'me'], ['de la naturaleza', 'de la finca', 'en la sala', 'de la condesa', 'en su', 'de su madre', 'su', 'no es más que', 'en que se', 'de su']]
+8: [['de', 'de la', 'de cuando en cuando', 'en medio de la', 'de los', 'la casa de', 'en la puerta de', 'de mi', 'en la', 'de la casa de'], ['puerta de la calle', 'de la condesa', 'la casa de vivienda', 'de la finca', 'no es más que', 'su', 'en su', 'de su madre', 'de su', 'en que se']]
+9: [['de', 'de cuando en cuando', 'en medio de la', 'de la', 'de los', 'en la', 'en la puerta de', 'me', 'la casa de', 'que no me'], ['en su', 'la casa de vivienda', 'en la sala', 'su', 'de la finca', 'no es más que', 'puerta de la calle', 'de su', 'en que se', 'de su madre']]
+Contra:
+[('de', 10), ('en medio de la', 10), ('de cuando en cuando', 10), ('de los', 10), ('de la', 10), ('en la puerta de', 9), ('en la', 8), ('me', 7), ('de mi', 7), ('la casa de', 6), ('de la casa de', 4), ('que me', 2), ('lo que', 2), ('uno de los', 1), ('que no me', 1), ('de lo que', 1), ('los', 1), ('el', 1)]
+Pro:
+[('de su', 10), ('en que se', 10), ('de su madre', 9), ('de la condesa', 9), ('de la finca', 9), ('su', 9), ('en su', 9), ('no es más que', 8), ('puerta de la calle', 8), ('en la sala', 7), ('la casa de vivienda', 7), ('de su padre', 2), ('no pudo menos de', 2), ('de la naturaleza', 1)]
+--------------------
+
+
+
+Top Features for country 2, Mexico in the folds:
+0: [['de su', 'de la', 'la', 'de la vida', 'de', 'al mismo tiempo que', 'al mismo tiempo', 'de vez en cuando', 'por la', 'la calle de la'], ['la casa de don', 'de la hacienda', 'de la mañana', 'así es que', 'el momento en que', 'de manera que', 'al cabo de un', 'de la casa de', 'la casa de', 'en la casa de']]
+1: [['de su', 'de la', 'de la vida', 'la', 'de', 'al mismo tiempo que', 'al mismo tiempo', 'de vez en cuando', 'por la', 'su'], ['de la mañana', 'la casa de don', 'de manera que', 'en la casa', 'de la hacienda', 'al cabo de un', 'así es que', 'de la casa de', 'en la casa de', 'la casa de']]
+2: [['de su', 'de la vida', 'la', 'de la', 'de', 'al mismo tiempo', 'por la', 'al mismo tiempo que', 'de vez en cuando', 'su'], ['de la mañana', 'de la hacienda', 'al cabo de un', 'en la casa', 'de manera que', 'la casa de don', 'así es que', 'de la casa de', 'en la casa de', 'la casa de']]
+3: [['de su', 'de la vida', 'la', 'de', 'de la', 'de vez en cuando', 'al mismo tiempo', 'por la', 'se puso de pie', 'de su madre'], ['de la mañana', 'de la hacienda', 'así es que', 'en la casa', 'el momento en que', 'la casa de don', 'de manera que', 'de la casa de', 'en la casa de', 'la casa de']]
+4: [['de su', 'la', 'de la', 'de', 'de la vida', 'al mismo tiempo', 'por la', 'al mismo tiempo que', 'de vez en cuando', 'de la calle'], ['de la mañana', 'así es que', 'de la hacienda', 'el momento en que', 'de manera que', 'al cabo de un', 'la casa de don', 'de la casa de', 'la casa de', 'en la casa de']]
+5: [['de su', 'de la', 'la', 'de la vida', 'de', 'al mismo tiempo', 'de vez en cuando', 'al mismo tiempo que', 'por la', 'su'], ['de la hacienda', 'en la casa', 'de la mañana', 'así es que', 'de manera que', 'al cabo de un', 'la casa de don', 'de la casa de', 'en la casa de', 'la casa de']]
+6: [['de su', 'de la', 'la', 'de la vida', 'de', 'al mismo tiempo', 'al mismo tiempo que', 'de vez en cuando', 'por la', 'de la calle'], ['en la casa', 'de la hacienda', 'el momento en que', 'así es que', 'de manera que', 'al cabo de un', 'la casa de don', 'de la casa de', 'en la casa de', 'la casa de']]
+7: [['de su', 'la', 'de la vida', 'de', 'de la', 'al mismo tiempo', 'al mismo tiempo que', 'de vez en cuando', 'por la', 'su'], ['al cabo de un', 'en la casa', 'de la hacienda', 'de la mañana', 'de manera que', 'así es que', 'la casa de don', 'de la casa de', 'en la casa de', 'la casa de']]
+8: [['de su', 'de la vida', 'la', 'de la', 'de', 'de vez en cuando', 'al mismo tiempo', 'por la', 'su', 'al mismo tiempo que'], ['las cuatro de la', 'el momento en que', 'de la mañana', 'en la casa', 'de manera que', 'la casa de don', 'al cabo de un', 'de la casa de', 'en la casa de', 'la casa de']]
+9: [['de su', 'la', 'de la vida', 'de la', 'de', 'de vez en cuando', 'al mismo tiempo', 'al mismo tiempo que', 'por la', 'su'], ['así es que', 'en la casa', 'de la hacienda', 'el momento en que', 'la casa de don', 'al cabo de un', 'de manera que', 'de la casa de', 'en la casa de', 'la casa de']]
+Contra:
+[('de su', 10), ('de vez en cuando', 10), ('de la vida', 10), ('de', 10), ('por la', 10), ('la', 10), ('al mismo tiempo', 10), ('de la', 10), ('al mismo tiempo que', 9), ('su', 6), ('de la calle', 2), ('de su madre', 1), ('la calle de la', 1), ('se puso de pie', 1)]
+Pro:
+[('la casa de don', 10), ('en la casa de', 10), ('la casa de', 10), ('de la casa de', 10), ('de manera que', 10), ('al cabo de un', 9), ('así es que', 9), ('de la hacienda', 9), ('en la casa', 8), ('de la mañana', 8), ('el momento en que', 6), ('las cuatro de la', 1)]
+--------------------
+
+
+
+Top Features for country 3, Argentina in the folds:
+0: [['de la casa', 'la casa de', 'que se', 'en la casa de', 'que', 'de la casa de', 'en su', 'más que', 'en la casa', 'más que un'], ['en la puerta de', 'de los indios', 'uno de los', 'de la vida', 'de vez en cuando', 'el hecho es que', 'la puerta de calle', 'por lo menos', 'se puso de pie', 'en medio de la']]
+1: [['de la casa', 'la casa de', 'en la casa de', 'de su padre', 'en la casa', 'más que', 'en su', 'de la casa de', 'que se', 'de'], ['la puerta de calle', 'por lo menos', 'de los indios', 'en ese momento', 'de vez en cuando', 'de la vida', 'de los', 'en medio de la', 'el hecho es que', 'uno de los']]
+2: [['la casa de', 'en la casa de', 'de la casa', 'de lo que', 'que se', 'en la casa', 'de la casa de', 'más que', 'que', 'en que se'], ['en ese momento', 'la puerta de calle', 'por lo menos', 'de los indios', 'de los', 'el hecho es que', 'se puso de pie', 'de vez en cuando', 'uno de los', 'en medio de la']]
+3: [['la casa de', 'de la casa', 'en la casa de', 'de la', 'de la casa de', 'más que', 'en la casa', 'más que un', 'de lo que', 'en su'], ['de vez en cuando', 'de la vida', 'al mismo tiempo que', 'de los indios', 'la puerta de calle', 'por lo menos', 'se puso de pie', 'en medio de la', 'el hecho es que', 'uno de los']]
+4: [['de la casa', 'la casa de', 'en la casa de', 'que se', 'de lo que', 'en la casa', 'más que', 'que', 'lo mismo que', 'no es más que'], ['después de un rato', 'en ese momento', 'de vez en cuando', 'al fin al cabo', 'se puso de pie', 'por lo menos', 'la puerta de calle', 'el hecho es que', 'en medio de la', 'uno de los']]
+5: [['la casa de', 'que se', 'en la casa de', 'de la casa', 'en que se', 'de lo que', 'que', 'más que', 'de que', 'en su'], ['después de un rato', 'los indios', 'en ese momento', 'de los indios', 'la puerta de calle', 'se puso de pie', 'de la vida', 'el hecho es que', 'uno de los', 'en medio de la']]
+6: [['de la casa', 'la casa de', 'en la casa de', 'que se', 'en la casa', 'que', 'más que', 'en su', 'de la casa de', 'se'], ['de los indios', 'en medio de', 'se puso de pie', 'por lo menos', 'de la vida', 'la puerta de calle', 'de los', 'en medio de la', 'el hecho es que', 'uno de los']]
+7: [['de la casa', 'la casa de', 'en la casa de', 'que se', 'más que', 'de la', 'en la casa', 'que', 'la casa de los', 'se'], ['en ese momento', 'los indios', 'de tiempo en tiempo', 'de los indios', 'por lo menos', 'la puerta de calle', 'se puso de pie', 'en medio de la', 'uno de los', 'el hecho es que']]
+8: [['de la casa', 'la casa de', 'en la casa de', 'que se', 'en la casa', 'de que', 'por lo que', 'que', 'de lo que', 'más que'], ['uno de esos', 'al lado de la', 'en ese momento', 'la puerta de calle', 'en medio de la', 'por lo menos', 'de vez en cuando', 'de la vida', 'se puso de pie', 'uno de los']]
+9: [['de la casa', 'la casa de', 'en la casa de', 'que se', 'de la casa de', 'en la casa', 'de la', 'en su', 'más que', 'se'], ['los indios', 'uno de esos', 'de los indios', 'en medio de la', 'por lo menos', 'uno de los', 'se puso de pie', 'de la vida', 'de vez en cuando', 'el hecho es que']]
+Contra:
+[('más que', 10), ('en la casa de', 10), ('de la casa', 10), ('la casa de', 10), ('en la casa', 9), ('que se', 9), ('que', 7), ('de la casa de', 6), ('en su', 6), ('de lo que', 5), ('se', 3), ('de la', 3), ('en que se', 2), ('de que', 2), ('más que un', 2), ('no es más que', 1), ('de su padre', 1), ('de', 1), ('por lo que', 1), ('la casa de los', 1), ('lo mismo que', 1)]
+Pro:
+[('uno de los', 10), ('en medio de la', 10), ('la puerta de calle', 9), ('el hecho es que', 9), ('por lo menos', 9), ('se puso de pie', 9), ('de los indios', 8), ('de vez en cuando', 7), ('de la vida', 7), ('en ese momento', 6), ('los indios', 3), ('de los', 3), ('uno de esos', 2), ('después de un rato', 2), ('al lado de la', 1), ('de tiempo en tiempo', 1), ('al mismo tiempo que', 1), ('en la puerta de', 1), ('en medio de', 1), ('al fin al cabo', 1)]
+--------------------
+
+
+
