@@ -9,3 +9,4 @@ It provides information about the corpus as well as plots for the parameter stud
 parameter study.
 The filenames in that folder follow the format
 `country_segment-[NUMBER OF SEGMENTS]_C-[SVM COST PARAMETER]_removeuc-[REMOVE UPPERCASE TOKENS]_minn-[MINIMUM N-GRAM SIZE]_maxn-[MAXIMUM N-GRAM SIZE]_numfeatures-[NUMBER OF FEATURES]`.
+* `requirements.txt` lists all python packages needed to run the iPython-Notebook.
